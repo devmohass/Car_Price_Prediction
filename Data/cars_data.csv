@@ -1,0 +1,2000 @@
+model,year,price,transmission,mileage,fuelType,tax,mpg,engineSize,Manufacturer
+ I10,2017,7495,Manual,11630,Petrol,145,60.1,1,hyundi
+ Polo,2017,10989,Manual,9200,Petrol,145,58.9,1,volkswagen
+ 2 Series,2019,27990,Semi-Auto,1614,Diesel,145,49.6,2,BMW
+ Yeti Outdoor,2017,12495,Manual,30960,Diesel,150,62.8,2,skoda
+ Fiesta,2017,7999,Manual,19353,Petrol,125,54.3,1.2,ford
+ C-HR,2019,26791,Automatic,2373,Hybrid,135,74.3,1.8,toyota
+ Kuga,2019,17990,Manual,7038,Petrol,145,34.4,1.5,ford
+ Tiguan,2019,27490,Semi-Auto,3000,Petrol,145,30.4,2,volkswagen
+ Fiesta,2018,9891,Manual,31639,Petrol,145,65.7,1,ford
+ A Class,2017,17498,Manual,9663,Diesel,30,62.8,2.1,merc
+ Kuga,2017,16500,Semi-Auto,30000,Diesel,145,54.3,2,ford
+ 1 Series,2016,10550,Manual,40313,Diesel,0,78.5,1.5,BMW
+ Up,2017,7990,Manual,9179,Petrol,145,64.2,1,volkswagen
+ Golf,2019,11980,Manual,14621,Petrol,145,49.6,1,volkswagen
+ Corsa,2017,7499,Manual,25000,Petrol,150,55.4,1.4,vauxhall
+ RAV4,2016,20790,Automatic,32196,Hybrid,20,55.4,2.5,toyota
+ Fiesta,2017,10490,Manual,16087,Petrol,0,65.7,1,ford
+ GLA Class,2016,15600,Automatic,42844,Diesel,30,64.2,2.1,merc
+ Golf,2017,17750,Manual,27125,Diesel,20,67.3,2,volkswagen
+ Aygo,2016,7130,Manual,23971,Petrol,0,69,1,toyota
+ Q5,2020,37000,Semi-Auto,1000,Diesel,145,38.2,2,Audi
+ Fiesta,2017,12750,Semi-Auto,12687,Petrol,145,54.3,1,ford
+ Karoq,2019,21490,Semi-Auto,4530,Diesel,145,47.1,1.6,skoda
+ Scala,2019,15490,Manual,5,Petrol,145,49.6,1,skoda
+ Auris,2017,11290,Manual,12890,Petrol,150,51.4,1.2,toyota
+ Corsa,2018,8499,Manual,7500,Petrol,145,55.4,1.4,vauxhall
+ Corsa,2016,7210,Manual,24277,Petrol,30,55.4,1.4,vauxhall
+ Tucson,2017,12998,Semi-Auto,41418,Diesel,125,57.6,1.7,hyundi
+ A4,2017,18182,Manual,18574,Petrol,145,51.4,1.4,Audi
+ Viva,2016,6520,Manual,20292,Petrol,20,62.8,1,vauxhall
+ Fiesta,2018,10500,Manual,13427,Petrol,145,65.7,1,ford
+ Kodiaq,2017,19495,Automatic,17323,Petrol,145,44.8,1.4,skoda
+ C Class,2015,16732,Automatic,33350,Diesel,30,64.2,2.1,merc
+ Mondeo,2015,6391,Manual,142000,Diesel,20,68.9,2,ford
+ 1 Series,2017,19990,Automatic,24092,Petrol,145,39.8,3,BMW
+ Mondeo,2016,10695,Manual,44298,Diesel,0,74.3,1.5,ford
+ Citigo,2018,8490,Manual,15724,Petrol,145,68.9,1,skoda
+ Tiguan,2014,14191,Semi-Auto,51220,Diesel,205,47.1,2,volkswagen
+ Kuga,2017,15499,Manual,25942,Diesel,145,54.3,2,ford
+ 1 Series,2015,8998,Manual,51342,Diesel,0,83.1,1.5,BMW
+ Tucson,2018,14938,Manual,8681,Petrol,145,44.8,1.6,hyundi
+ A4,2020,29000,Semi-Auto,20,Petrol,145,42.2,2,Audi
+ Yaris,2018,10495,Manual,25700,Petrol,145,56.5,1.5,toyota
+ X4,2015,19799,Automatic,51536,Diesel,200,47.9,3,BMW
+ Yaris,2017,10498,Manual,10440,Petrol,145,56.5,1.5,toyota
+ Octavia,2019,14998,Semi-Auto,15425,Diesel,145,70.6,1.6,skoda
+ Astra,2017,10498,Manual,38252,Diesel,145,76.3,1.6,vauxhall
+ Focus,2015,9498,Manual,22420,Diesel,0,74.3,1.5,ford
+ 3 Series,2019,27480,Semi-Auto,11103,Diesel,145,52.3,2,BMW
+ C Class,2019,28887,Automatic,9985,Diesel,145,57.7,2,merc
+ GLC Class,2018,20850,Automatic,20000,Diesel,150,56.5,2.1,merc
+ Up,2016,6390,Manual,31912,Petrol,20,62.8,1,volkswagen
+ Viva,2016,5499,Manual,27527,Petrol,20,62.8,1,vauxhall
+ Polo,2017,7790,Manual,51376,,0,74.3,1.4,volkswagen
+ Yaris,2018,13480,Automatic,10403,Hybrid,135,76.3,1.5,toyota
+ Fiesta,2017,8500,Manual,31413,Petrol,145,65.7,1,ford
+ Yaris,2016,11462,Automatic,37547,Hybrid,0,86,1.5,toyota
+ Q3,2016,18505,Semi-Auto,31975,Diesel,160,50.4,2,Audi
+ Tiguan,2017,17490,Manual,31259,Diesel,125,58.9,2,volkswagen
+ Karoq,2020,26990,Manual,1601,Diesel,145,42.8,2,skoda
+ B-MAX,2013,5698,Manual,44901,Petrol,145,47.1,1.4,ford
+ Astra,2019,12998,Manual,13590,Petrol,150,51.4,1.4,vauxhall
+ Polo,2019,20990,Semi-Auto,1396,Petrol,145,39.8,2,volkswagen
+ Golf,2017,13998,Semi-Auto,20994,Petrol,30,53.3,1.4,volkswagen
+ C Class,2019,29699,Semi-Auto,5230,Diesel,145,61.4,2,merc
+ C-MAX,2017,11124,Manual,28249,Petrol,145,55.4,1,ford
+ GLA Class,2019,22980,Semi-Auto,11738,Diesel,145,67.3,2.1,merc
+ Corsa,2008,1750,Manual,84490,Diesel,30,62.8,1.2,vauxhall
+ IX20,2015,7498,Manual,34123,Petrol,125,50.4,1.4,hyundi
+ Yaris,2016,11300,Automatic,29931,Hybrid,0,86,1.5,toyota
+ 3 Series,2016,16000,Automatic,51440,,165,,3,BMW
+ C Class,2017,17480,Automatic,47019,Hybrid,0,134.5,2,merc
+ X5,2016,41211,Semi-Auto,46180,Petrol,570,25.4,4.4,BMW
+ Focus,2019,18250,Manual,4365,Petrol,145,47.9,1,ford
+ Q3,2016,19950,Semi-Auto,25111,Diesel,145,51.4,2,Audi
+ Golf,2017,11950,Manual,41674,Petrol,150,54.3,1.4,volkswagen
+ T-Cross,2019,18690,Manual,2500,Diesel,145,53.3,1.6,volkswagen
+ Shuttle,2019,26396,Semi-Auto,12746,Diesel,145,32.8,2,volkswagen
+ Insignia,2015,8291,Manual,30916,Petrol,235,38.6,1.8,vauxhall
+ 3 Series,2014,13499,Automatic,61829,Diesel,125,57.6,3,BMW
+ Zafira,2016,10810,Manual,19731,Petrol,200,42.2,1.4,vauxhall
+ I10,2018,7500,Manual,7785,Petrol,145,60.1,1,hyundi
+ Yaris,2015,6498,Manual,46604,Diesel,0,80.7,1.4,toyota
+ Fiesta,2016,7300,Manual,48118,Petrol,0,65.7,1,ford
+ A3,2015,12700,Manual,55583,Diesel,20,68.9,2,Audi
+ Corsa,2019,9991,Manual,1895,Petrol,145,43.5,1.4,vauxhall
+ Yaris,2017,10995,Manual,21100,Petrol,145,56.5,1.5,toyota
+ A5,2019,26400,Automatic,7221,Diesel,145,51.4,2,Audi
+ A4,2019,23499,Manual,6001,Petrol,145,38.7,2,Audi
+ SL CLASS,2017,20498,Automatic,27474,Diesel,150,70.6,2.1,merc
+ A Class,2017,28499,Semi-Auto,33024,Petrol,145,40.9,2,merc
+ 3 Series,2019,25690,Semi-Auto,21544,Petrol,145,42.2,2,BMW
+ EcoSport,2016,9295,Manual,28053,Diesel,30,64.2,1.5,ford
+ Citigo,2016,5998,Manual,15125,Petrol,20,62.8,1,skoda
+ X1,2016,19990,Automatic,20000,Diesel,150,56.5,2,BMW
+ Focus,2017,11649,Manual,23765,Diesel,145,74.3,1.5,ford
+ Fabia,2017,7498,Manual,26226,Petrol,145,64.2,1,skoda
+ Yaris,2017,,Automatic,2563,,0,,1.5,toyota
+ X5,2018,37692,Automatic,24786,Diesel,145,47.1,3,BMW
+ Focus,2011,3995,Automatic,66164,Petrol,205,42.2,1.6,ford
+ Octavia,2017,10295,Manual,28211,Petrol,145,58.9,1,skoda
+ GLC Class,2018,26890,Semi-Auto,15200,Diesel,145,41.5,2.1,merc
+ Octavia,2017,10890,Semi-Auto,42964,,145,,1.4,skoda
+ Golf,2015,10491,Manual,47599,Diesel,20,68.9,2,volkswagen
+ GLC Class,2019,41995,Semi-Auto,1367,Diesel,150,40.4,2,merc
+ A Class,2018,18562,Semi-Auto,18905,Diesel,145,65.7,1.5,merc
+ Zafira,2017,11298,Manual,8504,Petrol,205,41.5,1.4,vauxhall
+ Octavia,2016,10695,Manual,84360,Diesel,30,62.8,2,skoda
+ X5,2017,34990,Automatic,18000,Diesel,200,47.1,3,BMW
+ Q3,2013,11699,Manual,36954,Diesel,145,54.3,2,Audi
+ Tucson,2017,15490,Automatic,28354,Diesel,150,46.3,2,hyundi
+ 3 Series,2013,11001,Manual,61000,Diesel,125,58.9,2,BMW
+ Golf SV,2018,14999,Semi-Auto,18622,Petrol,145,55.4,1.5,volkswagen
+ Verso,2015,9291,Semi-Auto,88412,Petrol,165,43.5,1.8,toyota
+ Yeti,2017,13990,Semi-Auto,28280,,145,,1.2,skoda
+ Corsa,2016,6295,Manual,23248,Petrol,30,55.4,1.4,vauxhall
+ A5,2019,24975,Semi-Auto,17912,Petrol,145,40.4,2,Audi
+ Polo,2019,15990,Manual,3268,Petrol,145,49.6,1,volkswagen
+ Focus,2018,11660,Manual,46995,Petrol,145,60.1,1,ford
+ Golf,2019,15989,Manual,12627,Petrol,145,46.3,1.5,volkswagen
+ Polo,2017,9980,Manual,21560,Petrol,150,60.1,1,volkswagen
+ Focus,2018,13600,Manual,13144,Petrol,145,58.9,1,ford
+ Polo,2019,15995,Manual,230,Petrol,145,47.9,1,volkswagen
+ Corsa,2010,4495,Manual,40214,Petrol,125,51.4,1.4,vauxhall
+ Fiesta,2018,10390,Manual,23345,Petrol,145,62.8,1,ford
+ Kuga,2018,16000,Manual,8483,Diesel,145,60.1,2,ford
+ A Class,2016,11900,Manual,78772,Diesel,30,62.8,2.1,merc
+ Corsa,2019,,Manual,1440,,145,,1.4,vauxhall
+ A4,2016,21999,Semi-Auto,30675,Diesel,30,61.4,3,Audi
+ Mokka X,2017,9667,Manual,22966,Petrol,145,47.1,1.4,vauxhall
+ Antara,2015,6500,Manual,52889,Diesel,240,44.1,2.2,vauxhall
+ E Class,2016,18995,Semi-Auto,18723,Diesel,125,60.1,2.1,merc
+ Focus,2014,11607,Manual,23000,Petrol,235,39.2,2,ford
+ 4 Series,2019,25480,Semi-Auto,8042,Diesel,145,65.7,2,BMW
+ A Class,2019,,Semi-Auto,6690,,145,,1.3,merc
+ Q5,2020,37444,Automatic,3000,Petrol,145,32.1,2,Audi
+ Superb,2019,15280,Manual,40100,Diesel,145,64.2,2,skoda
+ Astra,2017,8371,Manual,46230,Petrol,145,51.4,1.4,vauxhall
+ E Class,2013,12230,Automatic,77492,Diesel,160,51.4,2.1,merc
+ X1,2017,20980,Semi-Auto,31630,Diesel,150,55.4,2,BMW
+ X1,2018,21980,Semi-Auto,10708,Diesel,145,60.1,2,BMW
+ 5 Series,2019,42650,Semi-Auto,101,Petrol,145,50.4,2,BMW
+ 8 Series,2020,56990,Semi-Auto,3242,Petrol,150,33.6,3,BMW
+ Mondeo,2014,9149,Manual,32904,Diesel,30,61.4,2,ford
+ Aygo,2017,7998,Manual,6730,Petrol,145,68.9,1,toyota
+ B Class,2018,18999,Semi-Auto,13868,Petrol,150,50.4,1.6,merc
+ Fiesta,2017,9899,Manual,30526,Petrol,0,65.7,1,ford
+ 3 Series,2016,12400,Manual,33270,Petrol,150,48.7,2,BMW
+ Fiesta,2018,11995,Manual,12080,Petrol,150,65.7,1,ford
+ Ka+,2019,11299,Manual,2516,,145,,1.2,ford
+ Mokka X,2019,14494,Manual,9104,Petrol,145,39.2,1.4,vauxhall
+ Focus,2020,22990,Automatic,185,Diesel,145,54.3,1.5,ford
+ X2,2019,27806,Semi-Auto,2198,Petrol,145,36.2,2,BMW
+ Polo,2017,8800,Manual,24881,Petrol,145,60.1,1,volkswagen
+ Polo,2016,9495,Manual,48511,Petrol,20,60.1,1.2,volkswagen
+ C-MAX,2017,12500,Manual,12928,Petrol,30,55.4,1,ford
+ Golf,2018,15790,Manual,12652,Diesel,145,55.4,1.6,volkswagen
+ Ka+,2019,10495,Manual,5000,Petrol,145,43.5,1.2,ford
+ GLE Class,2019,54991,Automatic,1644,Diesel,145,32.8,3,merc
+ A6,2017,15000,Automatic,64962,Diesel,145,64.2,2,Audi
+ Mokka,2013,7290,Manual,42105,Diesel,125,57.6,1.7,vauxhall
+ 4 Series,2019,23480,Automatic,5738,Diesel,145,65.7,2,BMW
+ Fabia,2017,11495,Manual,17001,Petrol,20,58.9,1.2,skoda
+ 2 Series,2018,14157,Automatic,29590,Petrol,145,53.3,1.5,BMW
+ 4 Series,2016,20499,Automatic,16955,Diesel,145,53.3,3,BMW
+ Mokka,2017,10800,Manual,21480,Petrol,145,42.2,1.6,vauxhall
+ A5,2020,27900,Semi-Auto,5000,Petrol,145,40.4,2,Audi
+ Focus,2015,10699,Manual,21462,Petrol,125,51.4,1.5,ford
+ Focus,2019,26000,Manual,8480,Petrol,145,34.5,2.3,ford
+ Fiesta,2018,11499,Semi-Auto,35113,Petrol,145,54.3,1,ford
+ Fiesta,2017,9500,Manual,17373,Petrol,0,65.7,1,ford
+ Passat,2016,10298,Manual,56038,Diesel,20,68.9,2,volkswagen
+ Polo,2019,14495,Manual,15749,Petrol,150,52.3,1,volkswagen
+ Fabia,2017,11495,Semi-Auto,11184,Petrol,20,60.1,1.2,skoda
+ Mokka X,2018,13995,Manual,15265,Petrol,145,39.2,1.4,vauxhall
+ 1 Series,2016,9749,Manual,56044,Diesel,0,78.5,1.5,BMW
+ Kamiq,2020,19885,Semi-Auto,1575,Petrol,145,43.5,1.5,skoda
+ Fiesta,2017,9990,Manual,13051,Petrol,145,65.7,1,ford
+ Golf,2019,19950,Manual,5000,Petrol,145,49.6,1.5,volkswagen
+ Focus,2015,7700,Manual,47192,Diesel,20,67.3,1.6,ford
+ Adam,2015,5991,Manual,44500,Petrol,125,53.3,1.2,vauxhall
+ Polo,2016,9589,Manual,9476,Petrol,20,60.1,1,volkswagen
+ Q5,2020,45000,Semi-Auto,2500,Diesel,145,37.2,2,Audi
+ 2 Series,2019,21000,Manual,50,Petrol,145,52.3,1.5,BMW
+ Fiesta,2013,6298,Manual,40803,Diesel,0,76.4,1.5,ford
+ Polo,2016,13290,Semi-Auto,12215,Petrol,20,60.1,1.2,volkswagen
+ Q7,2019,,Automatic,8000,,145,,3,Audi
+ Yaris,2013,5500,Manual,49617,Petrol,125,51.4,1.3,toyota
+ Corsa,2017,8191,Manual,16477,Petrol,150,54.3,1.4,vauxhall
+ T-Cross,2019,16999,Manual,4899,Petrol,145,47.9,1,volkswagen
+ Astra,2017,8910,Manual,36921,Diesel,145,78.5,1.6,vauxhall
+ C Class,2016,16475,Automatic,34452,Diesel,30,64.2,2.1,merc
+ Golf,2016,16242,Semi-Auto,21779,Petrol,20,60.1,1.4,volkswagen
+ Auris,2014,8995,Semi-Auto,4500,Petrol,145,49.6,1.6,toyota
+ Focus,2016,9797,Manual,25286,Diesel,0,74.3,1.5,ford
+ Karoq,2019,21950,Automatic,11960,Petrol,145,50.4,1.5,skoda
+ E Class,2017,22750,Automatic,20737,Diesel,145,65.7,2,merc
+ Yaris,2016,13290,Automatic,20924,Hybrid,0,78,1.5,toyota
+ Yeti Outdoor,2017,13498,Semi-Auto,40045,Petrol,150,51.4,1.2,skoda
+ 5 Series,2019,31950,Semi-Auto,10776,Diesel,145,60.1,3,BMW
+ 1 Series,2012,5495,Manual,73853,Diesel,125,60.1,2,BMW
+ Up,2019,11975,Manual,14702,Petrol,150,50.4,1,volkswagen
+ Fiesta,2013,6491,Manual,51988,Diesel,0,78.5,1.6,ford
+ A Class,2020,25991,Semi-Auto,5797,Diesel,145,62.8,1.5,merc
+ Tiguan Allspace,2019,26998,Semi-Auto,4814,Diesel,150,39.2,2,volkswagen
+ C-HR,2017,21990,Automatic,19741,Hybrid,135,74.3,1.8,toyota
+ Tiguan,2016,17450,Automatic,27847,Diesel,160,49.6,2,volkswagen
+ Superb,2020,23290,Semi-Auto,495,Diesel,145,47.9,1.6,skoda
+ A5,2019,32970,Semi-Auto,8275,Diesel,150,44.8,2,Audi
+ Fiesta,2016,7499,Manual,27243,Petrol,125,54.3,1.2,ford
+ Polo,2020,15231,Manual,1822,Petrol,145,47.9,1,volkswagen
+ C Class,2016,13990,Manual,57138,Diesel,20,68.9,2.1,merc
+ C Class,2016,16200,Manual,23216,Diesel,20,68.9,1.6,merc
+ Fiesta,2018,14990,Manual,8895,Petrol,150,65.7,1,ford
+ X3,2019,33480,Automatic,8345,Diesel,145,54.3,2,BMW
+ GLA Class,2015,17000,Automatic,28952,Diesel,125,55.4,2.1,merc
+ E Class,2018,25498,Semi-Auto,10267,Diesel,150,58.9,2,merc
+ 3 Series,2019,31995,Semi-Auto,4995,Diesel,145,52.3,2,BMW
+ A4,2019,25990,Automatic,5500,Petrol,145,38.7,2,Audi
+ Mokka X,2017,10995,Manual,9988,Petrol,205,42.2,1.6,vauxhall
+ GLE Class,2016,24998,Semi-Auto,42913,Diesel,200,47.9,2.1,merc
+ A Class,2015,11200,Automatic,38776,Diesel,20,68.9,2.1,merc
+ E Class,2019,28480,Semi-Auto,14827,Diesel,145,58.9,2,merc
+ A3,2018,18990,Manual,6321,Petrol,145,50.4,2,Audi
+ Kuga,2019,17995,Manual,10701,Petrol,145,39.2,1.5,ford
+ Focus,2013,5995,Manual,63784,Petrol,30,56.5,1,ford
+ A4,2016,,Semi-Auto,43420,,30,,2,Audi
+ Q7,2017,49995,Semi-Auto,39300,Diesel,150,39.2,4,Audi
+ GLA Class,2015,15020,Automatic,63884,Diesel,30,62.8,2.1,merc
+ GLA Class,2016,19490,Semi-Auto,29766,Diesel,125,56.5,2.1,merc
+ Golf,2016,21892,Semi-Auto,35640,Petrol,200,39.8,2,volkswagen
+ 1 Series,2015,10388,Manual,28640,Diesel,0,83.1,1.5,BMW
+ Kuga,2019,15995,Manual,16697,Diesel,145,54.3,1.5,ford
+ Auris,2016,13495,Automatic,35417,Hybrid,0,72.4,1.8,toyota
+ Q3,2019,34950,Automatic,3225,Petrol,145,30.7,2,Audi
+ A3,2018,15840,Manual,22710,Diesel,145,68.9,1.6,Audi
+ Focus,2013,7300,Manual,48881,Diesel,20,67.3,1.6,ford
+ I10,2017,6989,Manual,13625,Petrol,20,60.1,1,hyundi
+ Golf,2019,17298,Manual,5385,Petrol,145,47.1,1.5,volkswagen
+ A Class,2020,25879,Semi-Auto,1000,Petrol,145,53.3,1.3,merc
+ Kuga,2019,20499,Manual,1987,Petrol,145,35.3,1.5,ford
+ 2 Series,2019,33440,Automatic,10,Diesel,145,64.2,2,BMW
+ Astra,2018,12999,Manual,17466,Petrol,145,45.6,1.6,vauxhall
+ 3 Series,2018,17250,Automatic,15189,Diesel,145,67.3,2,BMW
+ Mokka X,2016,9698,Manual,30841,Petrol,200,42.2,1.6,vauxhall
+ Corsa,2017,10495,Automatic,16837,Petrol,145,47.1,1.4,vauxhall
+ EcoSport,2018,13697,Manual,16815,Diesel,145,68.9,1.5,ford
+ E Class,2017,18791,Semi-Auto,52232,Diesel,20,67.3,2,merc
+ A1,2016,12999,Manual,22085,Petrol,30,55.4,1.4,Audi
+ C-HR,2017,16499,Manual,12000,Petrol,145,47.1,1.2,toyota
+ Tucson,2016,16995,Manual,15507,Diesel,125,58.9,2,hyundi
+ 5 Series,2020,36990,Semi-Auto,10,Diesel,145,60.1,3,BMW
+ Golf,2018,13998,Semi-Auto,17595,Petrol,145,57.7,1,volkswagen
+ Focus,2018,13498,Manual,11206,Petrol,145,57.7,1,ford
+ Corsa,2011,4495,Automatic,48435,Petrol,165,44.8,1.4,vauxhall
+ Fiesta,2018,10700,Manual,14126,Petrol,145,65.7,1,ford
+ Golf,2016,17322,Semi-Auto,29426,Diesel,30,62.8,2,volkswagen
+ Focus,2015,8500,Manual,32620,Diesel,0,74.3,1.5,ford
+ Grandland X,2018,14495,Manual,8755,Petrol,145,55.4,1.2,vauxhall
+ 4 Series,2019,22480,Semi-Auto,4020,Diesel,145,60.1,2,BMW
+ Fabia,2019,12991,Manual,4564,Petrol,145,52.3,1,skoda
+ Meriva,2016,6498,Manual,43121,Petrol,150,47.1,1.4,vauxhall
+ Q5,2016,23912,Semi-Auto,33500,Diesel,200,45.6,3,Audi
+ GLA Class,2019,23899,Semi-Auto,12131,Diesel,145,67.3,2.1,merc
+ Tiguan,2020,29995,Manual,10,Diesel,145,47.9,2,volkswagen
+ Fiesta,2014,7200,Manual,23594,,0,,1,ford
+ Astra,2019,14799,Manual,2473,Diesel,145,58.9,1.6,vauxhall
+ Tourneo Connect,2015,9295,Manual,47904,Diesel,125,56.5,1.6,ford
+ A4,2019,26490,Semi-Auto,6214,Petrol,145,38.7,2,Audi
+ 1 Series,2017,20995,Semi-Auto,22000,Petrol,150,39.8,3,BMW
+ Adam,2016,7121,Manual,19568,,125,,1.4,vauxhall
+ Tiguan,2019,30991,Manual,2000,Diesel,145,42.2,2,volkswagen
+ Fiesta,2016,10499,Manual,25049,Petrol,20,62.8,1,ford
+ Tucson,2017,14550,Semi-Auto,12322,Diesel,125,57.6,1.7,hyundi
+ Corsa,2016,7799,Manual,25690,,30,,1.4,vauxhall
+ Mokka,2014,5450,Manual,86318,Diesel,30,62.8,1.7,vauxhall
+ Aygo,2018,8700,Manual,9899,Petrol,145,56.5,1,toyota
+ Arteon,2020,28990,Semi-Auto,115,Petrol,145,47.1,2,volkswagen
+ Fiesta,2018,,Manual,19550,,145,,1,ford
+ A6,2016,19395,Semi-Auto,27764,Diesel,30,61.4,2,Audi
+ Yaris,2019,12495,Manual,3099,Petrol,145,47.9,1.5,toyota
+ Astra,2017,9210,Manual,20754,Petrol,145,51.4,1.4,vauxhall
+ A4,2019,43990,Semi-Auto,5505,Diesel,150,40.4,3,Audi
+ Q3,2020,36000,Semi-Auto,3000,Petrol,145,31.4,2,Audi
+ Astra,2016,8499,Manual,38466,Petrol,125,51.4,1.4,vauxhall
+ RAV4,2012,6980,Manual,74510,Diesel,205,47.1,2.2,toyota
+ Corsa,2018,10479,Automatic,22608,Petrol,150,39.8,1.4,vauxhall
+ Meriva,2016,7991,Manual,8094,Petrol,145,47.1,1.4,vauxhall
+ Octavia,2019,16995,Manual,24,Diesel,145,68.9,1.6,skoda
+ Mokka X,2019,12680,Manual,18372,Petrol,145,39.2,1.4,vauxhall
+ Kuga,2019,18000,Manual,15269,Diesel,145,38.2,2,ford
+ Focus,2016,12799,Manual,48537,Diesel,20,67.3,2,ford
+ TT,2016,19485,Manual,28402,Diesel,30,62.8,2,Audi
+ Fabia,2017,12495,Semi-Auto,10683,Petrol,145,60.1,1.2,skoda
+ Viva,2016,5720,Manual,28708,Petrol,20,62.8,1,vauxhall
+ Corsa,2007,1499,Manual,96468,Petrol,165,45.6,1.4,vauxhall
+ Golf,2017,13800,Manual,18650,Diesel,145,61.4,1.6,volkswagen
+ Ka+,2018,8300,Manual,23043,Petrol,150,57.7,1.2,ford
+ Golf,2017,23975,Semi-Auto,12187,Petrol,145,39.2,2,volkswagen
+ Fiesta,2016,8791,Manual,22542,Petrol,0,65.7,1,ford
+ GLS Class,2019,48249,Semi-Auto,6510,Diesel,145,37.2,3,merc
+ Fiesta,2016,8291,Manual,33331,Petrol,0,65.7,1,ford
+ Tucson,2019,21995,Manual,4425,Petrol,150,34.9,1.6,hyundi
+ Corsa,2019,9790,Manual,19954,Petrol,145,44.8,1.4,vauxhall
+ Santa Fe,2016,19797,Manual,14785,Diesel,200,46.3,2.2,hyundi
+ Auris,2014,11000,Automatic,54669,Hybrid,0,76.4,1.8,toyota
+ Polo,2016,8995,Manual,42609,Petrol,20,60.1,1.2,volkswagen
+ Astra,2016,9298,Manual,22223,Petrol,125,51.4,1.4,vauxhall
+ I30,2015,8699,Automatic,33791,Diesel,20,67.3,1.6,hyundi
+ A Class,2014,11040,Semi-Auto,31905,Diesel,20,70.6,1.5,merc
+ E Class,2017,17700,Automatic,34786,Diesel,20,72.4,2,merc
+ 3 Series,2016,12950,Manual,33301,Petrol,145,49.6,1.5,BMW
+ Focus,2019,19500,Automatic,5091,Diesel,145,54.3,1.5,ford
+ X5,2019,49995,Semi-Auto,1972,Diesel,145,37.7,3,BMW
+ Golf,2016,7499,Manual,85788,Diesel,20,72.4,1.6,volkswagen
+ S Class,2017,34999,Semi-Auto,22906,Diesel,145,52.3,3,merc
+ 4 Series,2020,26950,Semi-Auto,10,Diesel,145,65.7,2,BMW
+ Fabia,2015,6359,Manual,56162,Diesel,0,83.1,1.4,skoda
+ Yaris,2017,12350,Automatic,18000,Hybrid,135,76.3,1.5,toyota
+ Focus,2017,11491,Manual,5178,Petrol,20,61.4,1,ford
+ 5 Series,2015,10750,Manual,68310,Diesel,30,65.7,2,BMW
+ 2 Series,2019,23246,Semi-Auto,6139,Petrol,145,47.9,2,BMW
+ Mokka X,2016,11495,Manual,30345,Diesel,30,65.7,1.6,vauxhall
+ Fiesta,2020,19995,Manual,1732,Petrol,145,55.4,1,ford
+ X5,2019,49488,Automatic,6748,Petrol,145,27.2,3,BMW
+ Fiesta,2016,9695,Manual,25146,Petrol,0,65.7,1,ford
+ Golf SV,2018,15490,Manual,23500,Petrol,145,55.4,1.5,volkswagen
+ Ioniq,2018,16495,Automatic,28227,Hybrid,135,78.5,1.6,hyundi
+ A4,2015,12097,Semi-Auto,48268,Diesel,125,56.5,2,Audi
+ Focus,2013,5999,Manual,59477,Petrol,30,56.5,1,ford
+ C Class,2019,25699,Semi-Auto,11793,Petrol,145,47.1,1.5,merc
+ A Class,2017,19690,Semi-Auto,20124,Diesel,20,67.3,2.1,merc
+ Edge,2017,22511,Semi-Auto,25725,Diesel,145,47.9,2,ford
+ Polo,2019,12590,Manual,9198,Petrol,150,48.7,1,volkswagen
+ Fiesta,2018,10570,Manual,14112,Petrol,145,58.9,1,ford
+ Astra,2017,9341,Manual,34621,Diesel,145,76.3,1.6,vauxhall
+ Polo,2015,7498,Manual,22208,Petrol,20,60.1,1,volkswagen
+ Passat,2015,7393,Manual,124000,Diesel,20,67.3,2,volkswagen
+ EcoSport,2019,15495,Automatic,14447,Petrol,145,45.6,1,ford
+ Astra,2019,15000,Automatic,6094,Petrol,150,51.4,1.4,vauxhall
+ E Class,2017,18999,Automatic,36738,Diesel,145,65.7,2,merc
+ Up,2018,7495,Manual,11032,Petrol,145,62.8,1,volkswagen
+ Astra,2018,12795,Manual,167,,145,,1.4,vauxhall
+ Aygo,2018,9300,Manual,11933,Petrol,145,56.5,1,toyota
+ Superb,2019,16998,Semi-Auto,37334,Diesel,150,62.8,2,skoda
+ Mokka X,2018,13500,Manual,9046,Petrol,145,47.1,1.4,vauxhall
+ Zafira,2017,9970,Manual,32787,Petrol,200,41.5,1.4,vauxhall
+ Up,2020,10990,Manual,1201,Petrol,145,54.3,1,volkswagen
+ S-MAX,2014,11995,Automatic,25459,Diesel,300,39.8,2.2,ford
+ SLK,2008,5850,Automatic,78954,Petrol,300,34.4,1.8,merc
+ Golf,2019,29250,Semi-Auto,9430,Petrol,145,37.7,2,volkswagen
+ RAV4,2015,13200,Manual,10763,Diesel,125,57.6,2,toyota
+ Up,2020,10950,Manual,1000,Petrol,145,54.3,1,volkswagen
+ Yaris,2017,12495,Automatic,13356,Hybrid,0,86,1.5,toyota
+ Q7,2019,46426,Automatic,6063,Diesel,145,32.8,3,Audi
+ 1 Series,2017,19761,Semi-Auto,39681,Petrol,200,39.8,3,BMW
+ A3,2015,9995,Manual,29565,Petrol,125,53.3,1.4,Audi
+ A Class,2017,17699,Semi-Auto,6498,Petrol,145,52.3,1.6,merc
+ Santa Fe,2017,22480,Semi-Auto,26551,Diesel,150,42.8,2.2,hyundi
+ Golf,2018,13941,Manual,19642,Petrol,145,54.3,1.4,volkswagen
+ Golf SV,2017,13465,Manual,16539,Diesel,30,65.7,2,volkswagen
+ Crossland X,2019,12397,Manual,17123,Petrol,145,44.8,1.2,vauxhall
+ Ioniq,2018,13709,Automatic,38469,Hybrid,135,78.5,1.6,hyundi
+ A4,2016,15990,Manual,30625,Diesel,30,67.3,2,Audi
+ Tucson,2019,15498,Manual,17966,Petrol,145,34.9,1.6,hyundi
+ Aygo,2019,9995,Manual,25,,145,56.5,1,toyota
+ Astra,2016,10490,Semi-Auto,34754,Diesel,125,61.4,1.6,vauxhall
+ Fiesta,2016,10298,Manual,18016,Petrol,0,65.7,1,ford
+ 1 Series,2017,13000,Manual,26050,Diesel,145,68.9,2,BMW
+ C Class,2017,31399,Semi-Auto,19224,Petrol,145,36.2,3,merc
+ C Class,2017,19480,Semi-Auto,16419,Diesel,30,64.2,2.1,merc
+ 7 Series,2016,26800,Automatic,30194,Diesel,150,54.3,3,BMW
+ Q3,2013,11477,Manual,73000,Diesel,145,54.3,2,Audi
+ T-Roc,2019,25990,Manual,10986,Diesel,145,50.4,2,volkswagen
+ E Class,2017,22970,Semi-Auto,22699,Diesel,145,70.6,2,merc
+ Astra,2016,7270,Manual,70065,Petrol,20,64.2,1,vauxhall
+ C Class,2017,17490,Automatic,31000,Diesel,145,61.4,2.1,merc
+ Polo,2016,9495,Manual,28404,Diesel,0,83.1,1.4,volkswagen
+ Q2,2019,22500,Semi-Auto,4781,Petrol,150,43.5,1,Audi
+ A1,2019,22500,Semi-Auto,2963,Petrol,145,44.8,1.5,Audi
+ Adam,2016,6699,Manual,29000,Petrol,125,53.3,1.2,vauxhall
+ Kuga,2018,21570,Semi-Auto,16276,Diesel,150,54.3,2,ford
+ 2 Series,2016,18999,Automatic,35159,Petrol,260,37.2,3,BMW
+ Astra,2019,14999,Automatic,3472,Petrol,145,51.4,1.4,vauxhall
+ 4 Series,2019,25000,Semi-Auto,8592,Diesel,145,65.7,2,BMW
+ Focus,2019,15510,Manual,1786,Petrol,145,58.9,1,ford
+ Octavia,2019,13499,Manual,14069,Diesel,145,68.9,1.6,skoda
+ Yaris,2017,13495,Automatic,20083,Hybrid,140,67.3,1.5,toyota
+ Golf,2016,20998,Manual,18949,Petrol,200,39.8,2,volkswagen
+ Octavia,2017,10975,Semi-Auto,31283,Diesel,0,76.4,1.6,skoda
+ Fiesta,2018,12300,Manual,11173,Petrol,150,56.5,1,ford
+ Golf,2015,11495,Manual,50000,Petrol,30,53.3,1.4,volkswagen
+ X3,2019,33990,Semi-Auto,11,Diesel,145,54.3,2,BMW
+ Corsa,2019,8499,Manual,15684,Petrol,145,43.5,1.4,vauxhall
+ Focus,2018,13495,Semi-Auto,7672,Petrol,145,51.4,1,ford
+ Astra,2017,11540,Automatic,18995,Petrol,145,51.4,1.4,vauxhall
+ Corsa,2017,6599,Manual,22689,Petrol,30,55.4,1.4,vauxhall
+ X1,2016,19498,Semi-Auto,20153,Diesel,145,55.4,2,BMW
+ E Class,2017,18600,Automatic,40337,Diesel,145,72.4,2,merc
+ 5 Series,2020,36985,Semi-Auto,12,Diesel,145,56.5,3,BMW
+ Fiesta,2015,9450,Manual,21930,Petrol,0,65.7,1,ford
+ CL Class,2015,18170,Semi-Auto,16317,Diesel,20,62.8,2.1,merc
+ A6,2016,17975,Semi-Auto,50000,Diesel,30,61.4,2,Audi
+ Astra,2017,9995,Manual,32000,Diesel,20,74.3,1.6,vauxhall
+ Golf,2017,17498,Semi-Auto,35501,Diesel,30,62.8,2,volkswagen
+ CLA Class,2020,32995,Automatic,2000,Petrol,150,44.8,1.3,merc
+ Golf SV,2017,12792,Manual,17944,Petrol,145,55.4,1.4,volkswagen
+ 6 Series,2017,22449,Automatic,14400,Diesel,160,51.4,3,BMW
+ X1,2016,16998,Manual,13612,Diesel,125,60.1,2,BMW
+ Karoq,2019,21690,Automatic,3225,Petrol,145,41.5,1.5,skoda
+ Aygo,2016,6495,Manual,26556,Petrol,0,69,1,toyota
+ C Class,2019,26995,Semi-Auto,1,Diesel,145,54.3,1.6,merc
+ Up,2018,7990,Manual,1171,Petrol,145,54.3,1,volkswagen
+ Kodiaq,2019,29990,Automatic,5475,Petrol,150,31.4,2,skoda
+ V Class,2015,26950,Automatic,49000,Diesel,235,44.8,2.2,merc
+ Focus,2011,5490,Manual,68274,Petrol,145,47.9,1.6,ford
+ Tourneo Connect,2017,13950,Automatic,15852,Diesel,145,56.6,1.5,ford
+ Golf,2018,15189,Manual,36320,Diesel,145,61.4,1.6,volkswagen
+ Golf,2019,18798,Semi-Auto,8650,Diesel,145,52.3,2,volkswagen
+ 3 Series,2019,30495,Automatic,8,Diesel,145,50.4,2,BMW
+ 3 Series,2015,13995,Semi-Auto,37798,Diesel,30,64.2,2,BMW
+ Octavia,2016,10950,Manual,23750,Diesel,0,72.4,1.6,skoda
+ Fiesta,2013,5500,Manual,70400,Diesel,0,76.4,1.5,ford
+ Aygo,2016,6998,Manual,31501,Petrol,0,69,1,toyota
+ Mokka,2016,10100,Manual,25740,Petrol,160,44.8,1.4,vauxhall
+ I30,2013,5998,Manual,62227,Petrol,165,46,1.4,hyundi
+ Focus,2018,14950,Manual,581,Petrol,145,58.9,1,ford
+ Auris,2014,6995,Manual,31000,Petrol,145,46.3,1.6,toyota
+ Corsa,2009,2940,Manual,72000,Petrol,165,46.3,1.2,vauxhall
+ A Class,2018,18950,Automatic,9717,Petrol,145,28.5,1.3,merc
+ C Class,2016,18150,Semi-Auto,41356,Diesel,30,61.4,2.1,merc
+ Focus,2013,5490,Manual,65815,Diesel,20,67.3,1.6,ford
+ A6,2016,14498,Semi-Auto,49458,Diesel,30,61.4,2,Audi
+ 1 Series,2015,13440,Semi-Auto,66471,Petrol,145,47.9,1.6,BMW
+ E Class,2019,28866,Automatic,13089,Diesel,145,58.9,2,merc
+ Fabia,2018,8998,Manual,11189,Petrol,145,57.7,1,skoda
+ Insignia,2016,9499,Manual,39408,Diesel,20,68.9,1.6,vauxhall
+ Corsa,2019,10998,Manual,2674,Petrol,145,43.5,1.4,vauxhall
+ Citigo,2018,7500,Manual,12709,Petrol,145,67.3,1,skoda
+ Zafira,2014,4995,Manual,49853,Petrol,235,39.2,1.8,vauxhall
+ Fiesta,2017,9495,Automatic,30600,Petrol,0,57.7,1,ford
+ A4,2019,29985,Automatic,10,Petrol,145,42.8,2,Audi
+ A Class,2019,26490,Semi-Auto,12984,Petrol,150,53.3,1.3,merc
+ Viva,2016,4990,Manual,39306,Petrol,20,62.8,1,vauxhall
+ Corsa,2016,6491,Manual,15918,Petrol,30,55.4,1.4,vauxhall
+ 3 Series,2017,15300,Automatic,39428,Other,0,148.7,2,BMW
+ Fabia,2019,8995,Manual,4290,Petrol,150,57.7,1,skoda
+ Scirocco,2016,14966,Manual,25624,Diesel,20,55.4,2,volkswagen
+ 3 Series,2015,20990,Manual,17620,Petrol,265,36.7,3,BMW
+ i3,2017,19895,Automatic,29851,Hybrid,0,470.8,0,BMW
+ Grand C-MAX,2017,11400,Manual,22648,Petrol,30,54.3,1,ford
+ Corsa,2015,7699,Automatic,39000,Petrol,150,47.1,1.4,vauxhall
+ Q3,2017,17749,Manual,25737,Petrol,125,51.4,1.4,Audi
+ Tiguan,2019,27950,Automatic,2000,Diesel,145,39.8,2,volkswagen
+ Q3,2020,26500,Manual,1553,Petrol,145,40.9,1.5,Audi
+ Mokka X,2017,10780,Manual,9012,Petrol,145,47.1,1.4,vauxhall
+ Focus,2017,9620,Automatic,25668,Petrol,125,51.4,1,ford
+ C Class,2019,24099,Automatic,9501,Diesel,145,57.7,2.1,merc
+ Mokka,2016,8500,Manual,53984,Diesel,20,68.9,1.6,vauxhall
+ Polo,2016,11450,Manual,13200,Petrol,0,65.7,1,volkswagen
+ Aygo,2018,7795,Manual,21477,Petrol,150,68.9,1,toyota
+ Corsa,2017,6985,Manual,13306,Petrol,145,55.4,1.4,vauxhall
+ Astra,2019,13790,Manual,5926,Petrol,145,47.9,1.4,vauxhall
+ Golf,2018,16991,Manual,7500,Diesel,145,67.3,2,volkswagen
+ SQ5,2014,19400,Automatic,69682,Diesel,260,41.5,3,Audi
+ Mondeo,2015,8450,Manual,70068,Diesel,30,64.2,2,ford
+ A3,2003,1490,Automatic,101000,,240,,1.9,Audi
+ Tiguan,2019,28300,Automatic,8549,Diesel,145,40.4,2,volkswagen
+ Polo,2014,8950,Manual,34000,Petrol,20,58.9,1.2,volkswagen
+ Polo,2017,11490,Manual,14201,Petrol,150,60.1,1.2,volkswagen
+ X7,2019,62995,Automatic,11055,Diesel,145,33.6,3,BMW
+ Corolla,2019,18700,Manual,6597,Petrol,145,39.2,1.2,toyota
+ A1,2018,14995,Manual,23102,Petrol,145,55.4,1.4,Audi
+ Yaris,2012,5495,Manual,37294,Diesel,20,72.4,1.4,toyota
+ A7,2019,29930,Automatic,13450,,140,,3,Audi
+ Mokka,2018,12700,Manual,7375,Petrol,145,39.2,1.4,vauxhall
+ Golf,2019,19995,Semi-Auto,3000,Petrol,145,44.8,1.5,volkswagen
+ 1 Series,2019,15989,Automatic,7892,Petrol,145,55.5,1.5,BMW
+ Focus,2017,12339,Manual,17333,Petrol,145,57.7,1,ford
+ I10,2019,9491,Manual,10,Petrol,145,49.6,1,hyundi
+ Touareg,2019,38989,Automatic,11393,Diesel,150,34.5,3,volkswagen
+ C Class,2019,26799,Semi-Auto,4793,Diesel,145,58.9,1.6,merc
+ Focus,2017,11200,Manual,15410,Diesel,145,74.3,1.5,ford
+ Corsa,2014,5980,Manual,32700,Petrol,125,51.4,1.2,vauxhall
+ Insignia,2017,10490,Automatic,44000,,145,,1.6,vauxhall
+ B Class,2019,27199,Semi-Auto,8982,Diesel,145,54.3,2,merc
+ Focus,2017,10998,Manual,14653,Diesel,0,74.3,1.5,ford
+ Fiesta,2017,11000,Manual,20978,Petrol,0,65.7,1,ford
+ Santa Fe,2019,36995,Automatic,100,Diesel,145,39.8,2.2,hyundi
+ A3,2019,17400,Manual,4557,Diesel,145,49.6,1.6,Audi
+ Fiesta,2018,8700,Manual,37345,Petrol,145,64.2,1.1,ford
+ Astra,2019,11495,Manual,18240,,145,48.7,1,vauxhall
+ CLS Class,2011,11995,Automatic,88559,Diesel,200,46.3,3,merc
+ Octavia,2019,20298,Semi-Auto,10,Diesel,145,54.3,2,skoda
+ Crossland X,2019,12272,Manual,10056,Petrol,145,44.8,1.2,vauxhall
+ C Class,2019,28599,Semi-Auto,1171,Diesel,145,61.4,2,merc
+ Q3,2019,26500,Manual,1445,Diesel,145,40.9,2,Audi
+ Tiguan,2016,16690,Semi-Auto,31411,Diesel,165,49.6,2,volkswagen
+ Corsa,2014,6488,Manual,66601,Petrol,235,38.7,1.6,vauxhall
+ 3 Series,2014,12990,Manual,30000,Petrol,160,44.8,2,BMW
+ Fiesta,2018,8991,Manual,13363,Petrol,145,55.4,1.1,ford
+ A3,2018,14650,Manual,8507,Diesel,145,49.6,1.6,Audi
+ Q3,2017,21000,Automatic,19000,,145,,1.4,Audi
+ Fiesta,2019,16040,Manual,1891,Petrol,145,58.9,1,ford
+ 4 Series,2017,16800,Automatic,44011,Diesel,150,65.7,2,BMW
+ 2 Series,2019,19495,Automatic,8500,,145,,1.5,BMW
+ C-HR,2017,21000,Automatic,17996,Hybrid,0,74.3,1.8,toyota
+ Q5,2016,22495,Semi-Auto,25721,Diesel,200,47.1,2,Audi
+ Q2,2020,30995,Semi-Auto,2142,Diesel,145,44.8,2,Audi
+ Golf,2019,20995,Semi-Auto,9767,Petrol,145,43.5,1.5,volkswagen
+ Octavia,2018,17490,Manual,13825,Petrol,150,43.5,2,skoda
+ Tiguan,2019,20500,Manual,4000,Petrol,145,38.2,1.5,volkswagen
+ A3,2019,23950,Semi-Auto,4876,Diesel,145,52.3,1.6,Audi
+ A3,2019,19779,Manual,9853,Diesel,145,51.4,1.6,Audi
+ Tiguan Allspace,2019,32950,Semi-Auto,2678,Diesel,145,44.1,2,volkswagen
+ A Class,2017,16565,Semi-Auto,18398,Petrol,145,53.3,1.6,merc
+ Mokka,2015,8700,Manual,41941,Petrol,200,42.2,1.4,vauxhall
+ Yaris,2018,9995,Manual,22889,Petrol,145,56.5,1.5,toyota
+ 2 Series,2016,17998,Semi-Auto,28099,Diesel,145,55.4,2,BMW
+ C-MAX,2017,10998,Manual,7118,Petrol,30,55.4,1,ford
+ Up,2017,7640,Manual,21882,Petrol,145,64.2,1,volkswagen
+ A3,2019,32850,Semi-Auto,6337,Petrol,145,34.9,2,Audi
+ A5,2017,21995,Semi-Auto,66483,Petrol,145,38.2,3,Audi
+ Citigo,2017,7495,Manual,19545,Petrol,145,64.2,1,skoda
+ C Class,2016,19750,Semi-Auto,31467,Diesel,30,64.2,2.1,merc
+ Astra,2017,10400,Manual,35394,Diesel,0,76.3,1.6,vauxhall
+ I20,2017,8291,Manual,17839,Petrol,145,58.9,1.2,hyundi
+ Corsa,2017,7899,Manual,11309,Petrol,150,55.4,1.4,vauxhall
+ Astra,2019,14250,Manual,4300,Diesel,145,58.9,1.6,vauxhall
+ B Class,2019,20499,Automatic,15861,Petrol,145,45.6,1.3,merc
+ M Class,2015,18789,Automatic,68279,Diesel,300,39.2,3,merc
+ A3,2017,11600,Manual,40795,Diesel,0,74.3,1.6,Audi
+ 2 Series,2019,27016,Automatic,1402,Petrol,145,39.8,3,BMW
+ Fiesta,2019,13998,Automatic,5674,Petrol,150,48.7,1,ford
+ 5 Series,2015,12900,Automatic,82000,Diesel,30,62.8,2,BMW
+ Fiesta,2015,6495,Manual,58693,Diesel,0,78.5,1.6,ford
+ Tiguan,2019,19995,Manual,12144,Petrol,150,40.9,1.5,volkswagen
+ Astra,2016,10465,Manual,14000,Petrol,145,47.1,1.6,vauxhall
+ Fiesta,2019,14550,Manual,10071,Petrol,145,60.1,1,ford
+ Q5,2019,39990,Automatic,2632,Diesel,145,38.2,2,Audi
+ Fiesta,2016,7950,Manual,16674,Petrol,125,54.3,1.2,ford
+ Mokka X,2016,11948,Automatic,16593,Petrol,160,43.5,1.4,vauxhall
+ Yaris,2017,9498,Manual,23277,Petrol,30,55,1.3,toyota
+ A Class,2020,24780,Manual,9,Petrol,145,28.5,1.3,merc
+ Prius,2015,21990,Automatic,30862,Other,10,64.2,1.8,toyota
+ C Class,2016,17491,Automatic,18500,Diesel,20,65.7,2.1,merc
+ Golf,2017,16900,Manual,3112,Petrol,20,60.1,1.4,volkswagen
+ A5,2018,23015,Semi-Auto,14000,Diesel,150,67.3,2,Audi
+ I30,2016,9998,Manual,12668,Petrol,145,48.7,1.4,hyundi
+ Citigo,2017,8295,Manual,6630,Petrol,145,68.9,1,skoda
+ A1,2016,9496,Manual,56875,Petrol,30,57.6,1.4,Audi
+ Auris,2017,10750,Manual,14497,Petrol,30,58.9,1.2,toyota
+ CLS Class,2013,12000,Automatic,65000,Diesel,150,54.3,2.1,merc
+ Yaris,2017,9990,Automatic,5626,Petrol,30,58,1.3,toyota
+ Fiesta,2017,7489,Manual,29094,Petrol,145,65.7,1,ford
+ I20,2015,7290,Manual,24586,Petrol,30,55.4,1.2,hyundi
+ Q3,2020,28995,Manual,1817,Diesel,145,42.8,2,Audi
+ A3,2019,22500,Semi-Auto,4681,Diesel,145,53.3,1.6,Audi
+ Up,2017,6999,Manual,27968,Petrol,145,64.2,1,volkswagen
+ Polo,2017,9100,Manual,33267,Petrol,145,60.1,1.2,volkswagen
+ C-MAX,2017,8500,Automatic,47350,Diesel,20,64.2,1.5,ford
+ Q2,2019,26998,Semi-Auto,19,Diesel,150,46.3,2,Audi
+ Q2,2019,30000,Semi-Auto,3059,Petrol,145,33.2,2,Audi
+ A Class,2019,22966,Automatic,3535,Petrol,145,53.3,1.3,merc
+ Grandland X,2019,16000,Automatic,1612,Petrol,145,43.5,1.2,vauxhall
+ A3,2009,5295,Manual,63899,Petrol,200,40.9,1.6,Audi
+ Q3,2019,30950,Manual,100,Diesel,145,42.8,2,Audi
+ Polo,2018,13495,Manual,10000,Petrol,150,62.8,1,volkswagen
+ Yeti Outdoor,2016,11699,Semi-Auto,5928,Petrol,125,51.4,1.2,skoda
+ A4,2017,15540,Automatic,35452,Diesel,145,70.6,2,Audi
+ A3,2019,25450,Semi-Auto,3946,Diesel,145,51.4,2,Audi
+ C-MAX,2017,11200,Manual,6947,Petrol,30,55.4,1,ford
+ 1 Series,2016,13499,Manual,40855,,30,,2,BMW
+ Polo,2017,9495,Manual,33019,,20,60.1,1.2,volkswagen
+ SL CLASS,2016,18490,Semi-Auto,33650,Diesel,30,70.6,2.1,merc
+ 1 Series,2019,,Automatic,5000,,145,,2,BMW
+ A Class,2016,17000,Manual,28142,Petrol,200,41.5,2,merc
+ Fabia,2017,10790,Automatic,18828,Petrol,20,60.1,1.2,skoda
+ S-MAX,2019,21673,Manual,13490,Diesel,145,56.5,2,ford
+ Yeti Outdoor,2015,11790,Manual,37601,Diesel,160,49.6,2,skoda
+ Focus,2016,22992,Manual,17515,Petrol,235,36.7,2.3,ford
+ Kodiaq,2019,27850,Manual,7209,Diesel,145,52.3,2,skoda
+ Focus,2017,10660,Manual,25453,Petrol,20,61.4,1,ford
+ Q3,2017,17995,Manual,15968,Petrol,150,49.6,1.4,Audi
+ CL Class,2014,17298,Semi-Auto,33274,Diesel,30,62.8,2.1,merc
+ Corsa,2015,,Manual,22046,,125,,1.4,vauxhall
+ Mondeo,2015,10490,Automatic,54000,Diesel,125,58.9,2,ford
+ Polo,2017,10950,Manual,11518,Petrol,20,60.1,1.2,volkswagen
+ I10,2017,6991,Manual,14931,Petrol,145,60.1,1,hyundi
+ Golf,2016,19999,Automatic,12140,Petrol,160,44.1,2,volkswagen
+ Golf,2016,12400,Manual,30312,Diesel,0,74.3,1.6,volkswagen
+ Q3,2017,24790,Automatic,14059,Petrol,150,40.4,2,Audi
+ Santa Fe,2015,17000,Semi-Auto,34203,Diesel,260,42.2,2.2,hyundi
+ Mokka,2016,10891,Manual,12002,Petrol,200,42.2,1.4,vauxhall
+ Tiguan,2018,23499,Semi-Auto,10050,Diesel,150,49.6,2,volkswagen
+ Focus,2014,7211,Manual,67951,Diesel,125,56.5,2,ford
+ Fiesta,2016,7250,Manual,38830,Petrol,0,65.7,1,ford
+ C Class,2017,18998,Semi-Auto,26866,Diesel,30,64.2,2.1,merc
+ KA,2016,5000,Manual,55000,Petrol,30,57.7,1.2,ford
+ Focus,2019,19990,Automatic,5796,Diesel,145,47.9,1.5,ford
+ KA,2017,8000,Manual,12950,Petrol,145,57.7,1.2,ford
+ A5,2019,33490,Automatic,3798,Petrol,145,37.2,2,Audi
+ Polo,2017,9995,Manual,22024,Petrol,150,60.1,1,volkswagen
+ GT86,2018,18490,Manual,31231,Petrol,150,36.2,2,toyota
+ X5,2019,48190,Automatic,7580,Diesel,145,37.7,3,BMW
+ Golf,2016,15542,Manual,43994,Diesel,20,67.3,2,volkswagen
+ Focus,2018,15495,Manual,14298,Petrol,145,58.9,1,ford
+ Kuga,2018,19980,Manual,18911,Diesel,145,39.2,2,ford
+ Astra,2018,11995,Manual,7500,Diesel,150,76.3,1.6,vauxhall
+ C-MAX,2019,14299,Manual,5759,Petrol,145,48.7,1,ford
+ Auris,2019,17995,Automatic,13250,Hybrid,135,65.6,1.8,toyota
+ A4,2017,18990,Semi-Auto,30417,Diesel,30,62.8,2,Audi
+ Corsa,2016,7998,Manual,15697,Petrol,30,55.4,1.4,vauxhall
+ Focus,2013,11990,Manual,47729,Petrol,235,39.2,2,ford
+ Q2,2020,27490,Semi-Auto,4554,Petrol,150,42.2,1.5,Audi
+ Polo,2017,9690,Manual,14424,Petrol,145,58.9,1,volkswagen
+ Astra,2019,14500,Manual,3785,Petrol,150,51.4,1.4,vauxhall
+ C Class,2015,14490,Automatic,78000,Diesel,30,64.2,2.1,merc
+ Kuga,2019,19498,Manual,9420,,145,,1.5,ford
+ Polo,2019,11950,Manual,7000,Petrol,150,48.7,1,volkswagen
+ Hilux,2018,23994,Automatic,16734,Diesel,265,36.2,2.4,toyota
+ Galaxy,2017,17999,Manual,34036,Diesel,125,56.5,2,ford
+ Arteon,2019,22999,Automatic,2187,Petrol,145,48.7,1.5,volkswagen
+ Corsa,2019,8995,Manual,6688,Petrol,145,43.5,1.4,vauxhall
+ Fiesta,2019,11698,Manual,18115,Petrol,145,58.9,1,ford
+ A1,2016,13500,Manual,21263,Diesel,0,80.7,1.6,Audi
+ Golf,2019,17298,Manual,9205,Petrol,145,47.1,1.5,volkswagen
+ T-Roc,2019,27201,Semi-Auto,1293,Petrol,145,39.8,1.5,volkswagen
+ Kuga,2019,19450,Manual,14010,Diesel,145,47.9,2,ford
+ A Class,2020,24990,Manual,208,Petrol,145,47.1,1.3,merc
+ 5 Series,2019,25980,Semi-Auto,9630,Petrol,145,50.4,2,BMW
+ C Class,2019,40749,Semi-Auto,7749,Petrol,145,30.4,3,merc
+ Polo,2017,14995,Manual,12232,,145,47,1.8,volkswagen
+ GLA Class,2017,16800,Automatic,21599,Diesel,30,64.2,2.1,merc
+ M4,2019,39275,Semi-Auto,8787,Petrol,145,34,3,BMW
+ 1 Series,2019,19999,Semi-Auto,5963,Petrol,145,54.3,1.5,BMW
+ Astra,2016,7195,Manual,82511,Diesel,0,83.1,1.6,vauxhall
+ Focus,2018,19490,Manual,3000,Petrol,145,51.4,1.5,ford
+ Golf,2011,7450,Manual,54973,Petrol,165,44.1,1.4,volkswagen
+ X4,2019,36490,Semi-Auto,8432,Diesel,150,42.8,2,BMW
+ Golf,2019,20150,Semi-Auto,3500,Petrol,145,43.5,1.5,volkswagen
+ A1,2015,11995,Manual,26000,Petrol,0,67.3,1,Audi
+ Mokka,2019,14995,Manual,9852,Petrol,145,39.2,1.4,vauxhall
+ Tucson,2018,17190,Semi-Auto,33026,Diesel,145,57.7,1.7,hyundi
+ Focus,2012,4499,Manual,93193,Petrol,145,47.9,1.6,ford
+ X4,2016,18995,Automatic,74001,Diesel,145,54.3,2,BMW
+ Verso,2009,2300,Manual,131797,Diesel,160,51.4,2,toyota
+ Golf,2014,13995,Semi-Auto,53238,Diesel,30,62.8,2,volkswagen
+ 3 Series,2019,39950,Semi-Auto,1341,Diesel,150,43.5,3,BMW
+ Corsa,2019,10498,Manual,4704,Petrol,150,43.5,1.4,vauxhall
+ Mokka X,2019,11998,Manual,19398,Petrol,145,39.2,1.4,vauxhall
+ Fiesta,2016,12995,Automatic,2874,,0,57.7,1,ford
+ Fiesta,2017,9489,Manual,37069,Petrol,0,57.7,1,ford
+ Focus,2018,13795,Manual,10231,Petrol,145,60.1,1,ford
+ A Class,2016,14099,Manual,18262,Diesel,20,72.4,1.5,merc
+ I800,2018,15999,Automatic,30038,,145,,2.5,hyundi
+ Kuga,2013,8998,Manual,67895,Diesel,200,47.9,2,ford
+ A3,2017,18990,Manual,21130,Diesel,145,65.7,2,Audi
+ SL CLASS,2019,29990,Automatic,3425,Petrol,145,47.9,2,merc
+ Arteon,2019,27499,Semi-Auto,10951,Petrol,150,32.8,2,volkswagen
+ Kuga,2017,16998,Manual,19170,Diesel,145,60.1,2,ford
+ I30,2016,9998,Manual,33298,Diesel,20,72.4,1.6,hyundi
+ Astra,2016,8998,Manual,34379,Diesel,0,76.3,1.6,vauxhall
+ T-Roc,2018,21092,Manual,17588,Petrol,145,53.3,1.5,volkswagen
+ Fiesta,2015,7495,Manual,24000,Petrol,145,47.9,1.6,ford
+ 3 Series,2016,17980,Automatic,48947,Hybrid,0,134.5,2,BMW
+ Focus,2018,14199,Manual,21853,Diesel,145,74.3,1.5,ford
+ Up,2020,10500,Manual,1000,Petrol,145,54.3,1,volkswagen
+ Tiguan,2017,23450,Semi-Auto,28804,Diesel,145,49.6,2,volkswagen
+ C Class,2016,15990,Semi-Auto,26957,Diesel,30,65.7,1.6,merc
+ Adam,2015,7000,Manual,27004,Petrol,125,53.3,1.2,vauxhall
+ Fabia,2016,5641,Manual,28789,Petrol,20,60.1,1,skoda
+ A4,2018,18995,Semi-Auto,18696,Petrol,145,50.4,1.4,Audi
+ Polo,2019,15000,Manual,3000,Petrol,145,47.9,1,volkswagen
+ A5,2015,13650,Manual,37314,Diesel,145,55.4,2,Audi
+ Corsa,2015,4750,Manual,81826,Petrol,125,52.3,1.2,vauxhall
+ Mokka X,2018,13500,Manual,5434,Petrol,145,47.1,1.4,vauxhall
+ GLE Class,2019,49980,Semi-Auto,52,Diesel,145,36.7,2,merc
+ 1 Series,2017,14066,Semi-Auto,43260,Petrol,145,55.5,1.5,BMW
+ C Class,2019,35791,Automatic,2910,Diesel,145,64.2,2,merc
+ Fiesta,2018,16500,Manual,10026,Petrol,150,40.3,1.5,ford
+ S-MAX,2019,27000,Automatic,4850,Diesel,145,54.3,2,ford
+ Ioniq,2019,23991,Automatic,5500,Hybrid,135,78.5,1.6,hyundi
+ 5 Series,2019,27990,Automatic,14541,Diesel,145,65.7,2,BMW
+ GLA Class,2017,18480,Semi-Auto,43375,Diesel,145,56.5,2.1,merc
+ Yeti Outdoor,2017,12795,Manual,17365,Petrol,125,51.4,1.2,skoda
+ Golf,2017,17925,Semi-Auto,50017,Diesel,30,62.8,2,volkswagen
+ Touareg,2016,21990,Semi-Auto,18531,Diesel,235,42.8,3,volkswagen
+ Fiesta,2014,7599,Manual,26536,Petrol,0,65.7,1,ford
+ X1,2016,12795,Manual,71720,Diesel,20,68.9,2,BMW
+ 3 Series,2016,14920,Automatic,59695,,145,56.5,3,BMW
+ C-HR,2019,25500,Automatic,2560,Hybrid,135,74.3,1.8,toyota
+ X1,2017,20450,Semi-Auto,25725,Diesel,145,55.4,2,BMW
+ Corsa,2015,6732,Manual,34037,Petrol,125,54.3,1.4,vauxhall
+ Fiesta,2019,16400,Manual,4001,Petrol,145,60.1,1,ford
+ I30,2016,7998,Manual,41429,,0,78.4,1.6,hyundi
+ Polo,2016,9698,Manual,22037,Diesel,0,83.1,1.4,volkswagen
+ Fiesta,2016,8200,Manual,35865,Petrol,0,65.7,1,ford
+ Prius,2019,24395,Automatic,4092,Other,140,61.4,1.8,toyota
+ Polo,2016,11320,Automatic,9832,Petrol,20,60.1,1.2,volkswagen
+ A Class,2013,10599,Automatic,51140,Petrol,145,50.4,1.6,merc
+ TT,2019,27750,Automatic,1493,Petrol,145,35.3,2,Audi
+ Fabia,2018,11330,Manual,8401,Petrol,145,64.2,1,skoda
+ Golf,2013,7960,Semi-Auto,56122,Diesel,30,62.8,2,volkswagen
+ Auris,2017,16798,Automatic,11097,Hybrid,135,78.5,1.8,toyota
+ A1,2016,12491,Manual,38876,Petrol,30,55.4,1.4,Audi
+ Insignia,2017,13499,Manual,12148,Petrol,145,47.1,1.5,vauxhall
+ Focus,2018,13500,Manual,11000,Petrol,145,57.7,1,ford
+ T-Roc,2018,23299,Automatic,11233,Petrol,145,41.5,2,volkswagen
+ X2,2019,27990,Semi-Auto,10,Petrol,145,38.7,2,BMW
+ EcoSport,2018,13791,Manual,2368,Petrol,150,54.3,1,ford
+ C Class,2019,25599,Semi-Auto,12300,Petrol,145,47.1,1.5,merc
+ Adam,2013,6000,Manual,26000,Petrol,125,51.4,1.4,vauxhall
+ Kona,2019,16995,Manual,6250,Petrol,145,44.1,1,hyundi
+ Kuga,2018,15980,Manual,16773,Diesel,145,64.2,1.5,ford
+ Octavia,2019,14595,Manual,7435,Diesel,145,56.5,2,skoda
+ Arteon,2019,32495,Automatic,2494,Diesel,145,44.1,2,volkswagen
+ Corsa,2019,10398,Manual,12635,Petrol,145,43.5,1.4,vauxhall
+ C-MAX,2018,12998,Manual,2455,Diesel,145,68.9,1.5,ford
+ Edge,2016,17999,Manual,21000,Diesel,165,48.7,2,ford
+ Octavia,2019,17995,Manual,5000,Petrol,145,50.4,1.5,skoda
+ Astra,2016,10869,Manual,17676,Diesel,20,72.4,1.6,vauxhall
+ RAV4,2016,23995,Automatic,23750,Hybrid,20,55.4,2.5,toyota
+ 5 Series,2016,14550,Automatic,56320,Diesel,30,62.8,2,BMW
+ Astra,2018,10998,Manual,19506,Petrol,150,49.6,1.4,vauxhall
+ I20,2010,3795,Manual,49000,Petrol,145,50.4,1.4,hyundi
+ Aygo,2017,7490,Manual,12844,Petrol,145,68.9,1,toyota
+ C Class,2016,13691,Semi-Auto,36538,Diesel,30,65.7,1.6,merc
+ Fiesta,2016,8600,Manual,25929,Petrol,125,54.3,1.2,ford
+ Fabia,2018,9650,Manual,14076,Petrol,145,64.2,1,skoda
+ Edge,2017,22500,Semi-Auto,19552,Diesel,200,47.9,2,ford
+ E Class,2017,19751,Semi-Auto,36056,Diesel,30,65.7,2,merc
+ I10,2018,9633,Manual,7804,Petrol,145,57.7,1.2,hyundi
+ Q5,2016,27498,Semi-Auto,52427,Diesel,235,42.2,3,Audi
+ Grandland X,2018,15798,Manual,28627,Diesel,145,56.5,1.5,vauxhall
+ Passat,2015,10332,Semi-Auto,57121,Diesel,30,60.1,2,volkswagen
+ Fiesta,2018,12495,Manual,15500,Petrol,150,58.9,1,ford
+ T-Roc,2018,22990,Manual,9048,Petrol,145,53.3,1.5,volkswagen
+ Polo,2015,8498,Manual,27910,Petrol,20,60.1,1,volkswagen
+ Aygo,2017,6998,Manual,20155,Petrol,145,68.9,1,toyota
+ Astra,2017,10750,Manual,19597,Petrol,125,51.4,1.4,vauxhall
+ SL CLASS,2010,16990,Automatic,18000,Petrol,555,29.1,3.5,merc
+ Mokka X,2018,11990,Manual,32011,Petrol,150,47.1,1.4,vauxhall
+ X3,2019,31400,Semi-Auto,13191,Petrol,145,30.4,2,BMW
+ Golf,2019,25500,Automatic,7234,Petrol,145,44.8,2,volkswagen
+ Fiesta,2016,8650,Manual,30104,Petrol,0,65.7,1,ford
+ Karoq,2018,18290,Manual,7757,Petrol,145,52.3,1.5,skoda
+ Fiesta,2017,7750,Manual,19705,Petrol,125,54.3,1.2,ford
+ EcoSport,2018,12000,Manual,13955,Petrol,145,53.3,1,ford
+ Adam,2017,7717,Manual,22728,Petrol,125,52.3,1.4,vauxhall
+ Polo,2016,8698,Manual,20686,Petrol,20,60.1,1,volkswagen
+ Fiesta,2016,8990,Manual,23377,Petrol,0,65.7,1,ford
+ Golf,2016,15999,Manual,26498,Diesel,20,67.3,2,volkswagen
+ B Class,2020,26000,Semi-Auto,4000,Diesel,145,55.4,2,merc
+ Q3,2020,30000,Manual,1000,Petrol,145,40.9,1.5,Audi
+ CLS Class,2013,10200,Automatic,71004,Diesel,145,55,2.1,merc
+ 3 Series,2019,27498,Semi-Auto,14793,,145,,2,BMW
+ T-Cross,2019,16993,Manual,4000,Petrol,145,47.9,1,volkswagen
+ Focus,2015,6645,Manual,72000,Diesel,0,74.3,1.5,ford
+ Grandland X,2019,19971,Automatic,5902,Petrol,145,42.8,1.2,vauxhall
+ KA,2014,4890,Manual,14512,Petrol,30,57.7,1.2,ford
+ Fiesta,2018,10200,Manual,7471,Petrol,145,64.2,1.1,ford
+ Golf,2014,12450,Manual,67000,Diesel,20,67.3,2,volkswagen
+ Fabia,2019,8200,Manual,14925,Petrol,145,50.4,1,skoda
+ Golf,2018,18250,Manual,20096,Diesel,145,60.1,2,volkswagen
+ E Class,2018,22691,Automatic,16806,Diesel,145,61.4,2,merc
+ Fabia,2011,5495,Manual,31599,Petrol,125,54.3,1.2,skoda
+ Crossland X,2019,10905,Manual,18815,Petrol,145,47.1,1.2,vauxhall
+ Astra,2017,9599,Manual,20500,Petrol,145,52.3,1.4,vauxhall
+ Q2,2017,18700,Semi-Auto,36000,Petrol,145,52.3,1.4,Audi
+ Q2,2017,21000,Automatic,23000,Petrol,125,52.3,1.4,Audi
+ Fiesta,2015,7300,Manual,34972,Petrol,0,65.7,1,ford
+ Yaris,2017,13499,Automatic,10922,Hybrid,0,78,1.5,toyota
+ A Class,2017,19998,Automatic,22755,Petrol,145,45.6,2,merc
+ Golf,2019,13995,Manual,11020,Diesel,145,57.7,1.6,volkswagen
+ Corsa,2016,6750,Manual,29020,Petrol,30,55.4,1.4,vauxhall
+ E Class,2018,22999,Automatic,13284,Diesel,145,72.4,2,merc
+ Q5,2019,35950,Automatic,3003,Diesel,150,38.2,2,Audi
+ Focus,2018,12990,Manual,20000,Petrol,145,58.9,1,ford
+ Touran,2016,15495,Manual,30310,Diesel,30,61.4,1.6,volkswagen
+ Kodiaq,2018,23999,Semi-Auto,19780,Diesel,150,49.6,2,skoda
+ Focus,2014,5290,Manual,59003,Diesel,20,67.3,1.6,ford
+ Mokka X,2019,13084,Manual,13551,Petrol,145,39.2,1.4,vauxhall
+ 3 Series,2011,9490,Automatic,59000,Diesel,235,44.1,3,BMW
+ Tiguan,2019,27995,Semi-Auto,8854,Diesel,145,40.4,2,volkswagen
+ SLK,1998,1990,Automatic,99300,Petrol,265,32.1,2.3,merc
+ A5,2019,31900,Automatic,3794,Diesel,145,45.6,2,Audi
+ Golf SV,2016,12790,Semi-Auto,42000,Petrol,125,50.4,1.4,volkswagen
+ Golf,2016,,Semi-Auto,6636,,30,,2,volkswagen
+ Golf,2016,15000,Manual,42000,Diesel,20,68.9,2,volkswagen
+ Astra,2019,14994,Manual,6432,Petrol,145,58.9,1.4,vauxhall
+ A3,2018,20488,Manual,13069,Petrol,145,54.3,1.5,Audi
+ 3 Series,2015,13400,Automatic,24741,Diesel,30,62.8,2,BMW
+ A Class,2019,22999,Semi-Auto,510,Petrol,145,53.3,1.3,merc
+ C-MAX,2016,9491,Manual,38839,Diesel,20,68.9,1.5,ford
+ Astra,2011,2880,Manual,81000,Diesel,30,62.8,1.7,vauxhall
+ 2 Series,2019,21980,Manual,5587,Petrol,145,52.3,1.5,BMW
+ 2 Series,2019,21980,Automatic,3935,Diesel,145,68.9,2,BMW
+ Golf,2014,6395,Manual,113000,Diesel,20,68.9,2,volkswagen
+ 2 Series,2018,22998,Semi-Auto,27542,Petrol,145,39.8,3,BMW
+ Kuga,2018,17550,Manual,16672,Diesel,145,64.2,1.5,ford
+ CLS Class,2015,18680,Automatic,46085,Diesel,160,51.4,3,merc
+ Mokka,2016,9999,Manual,23586,,20,,1.6,vauxhall
+ 1 Series,2015,8990,Manual,47000,Petrol,125,53.3,1.5,BMW
+ X5,2016,,Automatic,72219,,205,,3,BMW
+ X3,2014,19640,Semi-Auto,80078,Diesel,200,47.1,3,BMW
+ C Class,2014,12900,Automatic,41000,Petrol,160,44.8,1.6,merc
+ Fabia,2017,11495,Semi-Auto,25840,Petrol,150,60.1,1.2,skoda
+ Mokka X,2017,9490,Manual,28000,Petrol,145,47.1,1.4,vauxhall
+ Yaris,2014,8440,Automatic,19000,Petrol,30,55,1.3,toyota
+ A Class,2020,41729,Semi-Auto,1000,Petrol,145,32.8,2,merc
+ Golf,2017,18999,Manual,22751,Diesel,145,60.1,2,volkswagen
+ Edge,2017,19995,Manual,22930,Diesel,160,48.7,2,ford
+ Q2,2017,19701,Semi-Auto,18434,Petrol,125,52.3,1.4,Audi
+ A Class,2018,22031,Semi-Auto,13842,Petrol,145,53.3,1.3,merc
+ C Class,2018,26748,Automatic,17970,Diesel,145,65.7,2.1,merc
+ Golf,2018,20791,Semi-Auto,38360,Diesel,145,57.7,2,volkswagen
+ E Class,2018,34199,Semi-Auto,413,Diesel,145,41.5,3,merc
+ Grand Tourneo Connect,2016,13482,Manual,21862,Diesel,30,64.2,1.5,ford
+ E Class,2018,35890,Automatic,7200,Diesel,145,42.8,3,merc
+ Fabia,2019,10495,Manual,10232,Petrol,145,61.4,1,skoda
+ Aygo,2019,,Manual,1472,,145,,1,toyota
+ 1 Series,2016,9200,Manual,48858,Diesel,0,83.1,1.5,BMW
+ Caravelle,2019,47994,Semi-Auto,7801,Diesel,150,32.8,2,volkswagen
+ Fiesta,2014,8000,Manual,22295,Petrol,0,65.7,1,ford
+ C Class,2019,28998,Manual,22,Petrol,145,48.7,1.6,merc
+ Superb,2019,18995,Manual,4998,Petrol,145,40.9,1.5,skoda
+ Focus,2016,8298,Manual,49173,Diesel,0,74.3,1.5,ford
+ Polo,2018,13291,Manual,16000,Petrol,150,62.8,1,volkswagen
+ Focus,2019,17800,Manual,3200,Petrol,145,58.9,1,ford
+ Up,2020,10990,Manual,25,Petrol,150,54.3,1,volkswagen
+ Adam,2019,10495,Manual,3455,Petrol,145,44.8,1.2,vauxhall
+ CL Class,2017,20290,Automatic,21386,Diesel,20,67.3,2.1,merc
+ C Class,2019,33149,Semi-Auto,9000,,145,,2,merc
+ GLC Class,2017,26980,Automatic,26234,Diesel,145,56.5,2.1,merc
+ 2 Series,2015,9295,Manual,71670,Diesel,20,68.9,2,BMW
+ Adam,2015,6250,Manual,10870,Petrol,125,53.3,1.2,vauxhall
+ Q2,2017,21995,Semi-Auto,17633,Petrol,145,52.3,1.4,Audi
+ Fiesta,2017,10298,Manual,9148,Petrol,145,65.7,1,ford
+ Corsa,2017,7990,Manual,28427,Petrol,145,55.4,1.4,vauxhall
+ Mokka X,2019,14160,Manual,11537,Petrol,145,39.2,1.4,vauxhall
+ Corsa,2018,7499,Manual,24752,Petrol,145,55.4,1.4,vauxhall
+ I10,2018,9499,Manual,8000,,150,,1,hyundi
+ A6,2019,30000,Automatic,8000,Diesel,145,50.4,2,Audi
+ Adam,2017,8282,Manual,4553,Petrol,145,53.3,1.2,vauxhall
+ Zafira,2016,10590,Manual,7399,Petrol,200,42.2,1.4,vauxhall
+ Kamiq,2019,16991,Manual,458,Petrol,150,49.6,1,skoda
+ I10,2017,10591,Semi-Auto,14097,Petrol,150,47.9,1.2,hyundi
+ E Class,2019,37995,Automatic,9,Diesel,145,57.7,2,merc
+ Aygo,2018,6600,Manual,28023,Petrol,145,69,1,toyota
+ Q2,2019,29566,Automatic,5123,Petrol,145,33.2,2,Audi
+ E Class,2020,39895,Semi-Auto,101,Petrol,145,33.7,2,merc
+ Q3,2019,24990,Manual,6000,Petrol,145,40.9,1.5,Audi
+ Golf,2017,12810,Manual,20351,Petrol,145,58.9,1,volkswagen
+ A3,2015,8490,Manual,40000,Diesel,20,68.9,2,Audi
+ Tucson,2016,10280,Manual,27992,Petrol,160,44.8,1.6,hyundi
+ Astra,2014,5250,Manual,100896,Diesel,0,76.3,1.6,vauxhall
+ A1,2014,10500,Manual,60128,Petrol,125,52.3,1.4,Audi
+ Kuga,2017,15495,Manual,14565,Diesel,150,64.2,1.5,ford
+ Fiesta,2016,9350,Manual,10373,Petrol,0,65.7,1,ford
+ C Class,2017,25999,Semi-Auto,6600,Petrol,145,47.1,2,merc
+ Tiguan,2019,25995,Semi-Auto,6662,Diesel,150,39.8,2,volkswagen
+ Adam,2016,8295,Manual,25038,Petrol,125,52.3,1.4,vauxhall
+ Octavia,2017,11995,Semi-Auto,22965,Petrol,145,57.7,1.4,skoda
+ Ka+,2018,8888,Manual,25000,Petrol,145,47.9,1.2,ford
+ Focus,2019,16000,Manual,11979,Petrol,150,60.1,1,ford
+ Kona,2018,14964,Manual,13733,Petrol,145,44.1,1,hyundi
+ Fiesta,2017,8380,Manual,28298,Petrol,0,65.7,1,ford
+ Adam,2018,10495,Manual,900,Petrol,145,56.5,1.4,vauxhall
+ Fiesta,2015,8799,Manual,31117,Petrol,0,65.7,1,ford
+ Yeti Outdoor,2017,12990,Manual,37307,Petrol,125,51.4,1.2,skoda
+ Q5,2020,49865,Semi-Auto,3272,Diesel,145,34.5,3,Audi
+ Focus,2017,17298,Manual,9463,Petrol,145,41.5,2,ford
+ 2 Series,2017,13700,Automatic,20996,Diesel,20,68.9,2,BMW
+ CL Class,2017,18300,Semi-Auto,40684,Diesel,145,58.9,2.1,merc
+ Q3,2020,33990,Manual,24,Petrol,145,39.8,1.5,Audi
+ SQ5,2017,37700,Automatic,20000,Petrol,145,34,3,Audi
+ Fiesta,2018,12998,Semi-Auto,9917,Petrol,145,54.3,1,ford
+ X1,2016,18797,Automatic,13505,Diesel,125,57.6,2,BMW
+ 3 Series,2019,28110,Automatic,1500,Petrol,145,42.2,2,BMW
+ X4,2018,40000,Semi-Auto,4135,,145,,3,BMW
+ A3,2016,16500,Manual,11369,Diesel,20,65.7,2,Audi
+ A3,2017,17255,Manual,26111,Petrol,30,60.1,1.4,Audi
+ Passat,2017,13995,Manual,21457,Diesel,20,68.9,2,volkswagen
+ Octavia,2019,16995,Semi-Auto,5906,Petrol,145,55.4,1.5,skoda
+ Focus,2018,18990,Manual,8624,Petrol,145,41.5,2,ford
+ B Class,2013,8990,Automatic,52000,Diesel,30,60.1,1.8,merc
+ Tiguan,2019,29950,Automatic,8980,Diesel,145,45.6,2,volkswagen
+ Golf,2016,12295,Manual,31393,Diesel,0,74.3,1.6,volkswagen
+ Viva,2017,6941,Manual,15871,Petrol,145,62.8,1,vauxhall
+ Golf,2016,18750,Semi-Auto,24250,Petrol,160,44.1,2,volkswagen
+ Q7,2018,65000,Automatic,9923,Diesel,150,37.2,4,Audi
+ A3,2019,24990,Manual,6000,Petrol,145,43.5,1.5,Audi
+ 6 Series,2016,22910,Semi-Auto,25596,Diesel,200,49.6,3,BMW
+ 1 Series,2019,23450,Automatic,12725,Petrol,145,39.8,3,BMW
+ Fabia,2017,10980,Automatic,20000,Other,145,60.1,1.2,skoda
+ Astra,2018,13900,Manual,4349,Petrol,145,51.4,1.4,vauxhall
+ Fiesta,2017,11295,Automatic,12674,Petrol,0,57.7,1,ford
+ Fiesta,2017,9500,Manual,12154,Petrol,0,65.7,1,ford
+ Tiguan,2020,32990,Manual,2986,Diesel,145,47.9,2,volkswagen
+ S-MAX,2019,30000,Semi-Auto,623,Diesel,145,43.5,2,ford
+ Golf SV,2018,18900,Semi-Auto,2500,Petrol,145,55.4,1.5,volkswagen
+ Zafira,2017,11900,Manual,18562,Petrol,205,41.5,1.4,vauxhall
+ Tiguan,2018,25981,Semi-Auto,22548,Petrol,145,38.2,2,volkswagen
+ A3,2019,21690,Semi-Auto,8852,Petrol,150,42.2,1.5,Audi
+ C Class,2019,34989,Automatic,4131,Diesel,145,55.4,2,merc
+ 5 Series,2019,32102,Semi-Auto,11878,Diesel,145,60.1,3,BMW
+ Superb,2016,10999,Manual,67601,Diesel,20,67.3,2,skoda
+ Corsa,2017,7250,Manual,55000,Petrol,150,54.3,1.4,vauxhall
+ A Class,2018,19879,Automatic,12215,Petrol,145,28.5,1.3,merc
+ A3,2019,22500,Semi-Auto,14307,Petrol,145,41.5,1.5,Audi
+ Astra,2017,9220,Manual,23185,Petrol,145,52.3,1.4,vauxhall
+ Fiesta,2017,10800,Manual,19929,Petrol,145,65.7,1,ford
+ Q5,2011,6195,Manual,168017,Diesel,200,42.1,2,Audi
+ E Class,2017,23995,Semi-Auto,16820,Diesel,145,51.4,3,merc
+ Passat,2019,24498,Semi-Auto,10,Diesel,145,53.3,2,volkswagen
+ Fabia,2013,4490,Manual,85860,Petrol,125,53.3,1.2,skoda
+ C Class,2019,29995,Semi-Auto,13,Diesel,145,55.4,2,merc
+ Yeti Outdoor,2017,15475,Manual,36400,Diesel,145,55.4,2,skoda
+ Touareg,2019,44995,Automatic,100,Diesel,145,34.5,3,volkswagen
+ Focus,2017,11750,Manual,32746,Diesel,145,74.3,1.5,ford
+ A5,2019,29500,Automatic,1000,Petrol,145,39.8,2,Audi
+ 3 Series,2018,18990,Semi-Auto,17282,Diesel,150,64.2,2,BMW
+ X7,2020,64995,Semi-Auto,1501,,145,,3,BMW
+ A1,2019,21000,Semi-Auto,9000,Petrol,145,44.8,1.5,Audi
+ GLS Class,2017,38990,Semi-Auto,23510,Diesel,150,37.2,3,merc
+ Passat,2016,10998,Manual,45208,Diesel,20,68.9,2,volkswagen
+ 4 Series,2019,22446,Automatic,10164,Diesel,145,65.7,2,BMW
+ S-MAX,2016,,Manual,52216,,125,,2,ford
+ S Class,2019,54999,Automatic,2255,Diesel,145,52.3,3,merc
+ 2 Series,2019,21875,Semi-Auto,3995,Petrol,145,50.4,1.5,BMW
+ T-Roc,2019,20912,Manual,6608,Diesel,145,50.4,1.6,volkswagen
+ Golf,2018,19450,Manual,22000,Diesel,145,60.1,2,volkswagen
+ Fiesta,2019,11998,Manual,9501,,145,,1,ford
+ GLS Class,2019,54990,Semi-Auto,18717,Diesel,145,34,3,merc
+ A3,2012,6695,Manual,48000,Diesel,20,68.9,1.6,Audi
+ 3 Series,2015,21242,Semi-Auto,18283,Diesel,160,51.4,3,BMW
+ Yeti Outdoor,2016,11995,Manual,53918,Diesel,145,55.4,2,skoda
+ Corolla,2019,26495,Automatic,1000,Hybrid,135,72.4,2,toyota
+ A1,2016,10600,Manual,21428,Petrol,0,67.3,1,Audi
+ Golf,2015,7475,Manual,66813,Diesel,0,88.3,1.6,volkswagen
+ RAV4,2017,14795,Manual,47362,Diesel,125,60.1,2,toyota
+ Aygo,2019,7995,Manual,13500,Petrol,145,56.5,1,toyota
+ Golf,2019,20250,Manual,9500,Diesel,145,55.4,1.6,volkswagen
+ 2 Series,2015,9698,Manual,60891,Diesel,20,68.9,2,BMW
+ Golf,2017,10752,Manual,68625,Diesel,145,61.4,1.6,volkswagen
+ A Class,2019,104999,Semi-Auto,5822,Petrol,150,22.6,4,merc
+ X4,2019,33998,Semi-Auto,14404,Diesel,150,42.8,2,BMW
+ Corsa,2019,10490,Manual,5922,Petrol,150,43.5,1.4,vauxhall
+ A1,2015,11998,Manual,23081,Petrol,0,67.3,1,Audi
+ Touran,2016,15739,Manual,11338,Diesel,30,61.4,1.6,volkswagen
+ EcoSport,2017,9300,Manual,28697,Petrol,145,52.3,1,ford
+ Mondeo,2016,9000,Manual,61190,Diesel,0,78.5,1.5,ford
+ A5,2017,22998,Semi-Auto,26939,,145,62.8,2,Audi
+ Aygo,2009,4050,Manual,28230,Petrol,20,62.8,1,toyota
+ Ka+,2018,7995,Manual,3569,Petrol,145,57.7,1.2,ford
+ CL Class,2016,20100,Automatic,16249,Diesel,20,67.3,2.1,merc
+ Grandland X,2019,20290,Automatic,12853,Diesel,145,57.7,1.5,vauxhall
+ A3,2016,16511,Manual,23711,Petrol,30,57.6,1.4,Audi
+ GT86,2019,25999,Manual,100,Petrol,145,33.2,2,toyota
+ Fiesta,2016,7242,Manual,48548,Petrol,0,65.7,1,ford
+ CLS Class,2016,23480,Semi-Auto,31310,Diesel,160,51.4,3,merc
+ Corsa,2015,7298,Manual,28059,Petrol,125,54.3,1.4,vauxhall
+ A1,2019,21995,Semi-Auto,3900,Petrol,145,40.9,2,Audi
+ Astra,2016,9750,Manual,17787,Petrol,125,51.4,1.4,vauxhall
+ S Class,2017,67699,Semi-Auto,15400,Petrol,145,28,5.5,merc
+ Combo Life,2019,13498,Manual,11200,Petrol,150,42.2,1.2,vauxhall
+ Octavia,2019,16540,Manual,5996,Diesel,145,54.3,2,skoda
+ Q3,2019,30790,Semi-Auto,6119,Petrol,150,31.7,2,Audi
+ i3,2016,14900,Automatic,59945,Hybrid,0,470.8,0,BMW
+ A Class,2019,36432,Semi-Auto,1120,Petrol,145,35.3,2,merc
+ Passat,2016,9500,Semi-Auto,89100,Diesel,30,62.8,2,volkswagen
+ Yaris,2016,7998,Manual,30159,Petrol,30,58,1.3,toyota
+ Golf,2017,16291,Manual,22534,Petrol,150,47.1,2,volkswagen
+ Zafira,2018,13995,Manual,10000,Petrol,145,41.5,1.4,vauxhall
+ GL Class,2016,18295,Automatic,17909,Petrol,145,50.4,1.6,merc
+ Avensis,2015,9065,Manual,42238,Diesel,30,62.8,2,toyota
+ Fiesta,2015,6990,Manual,29851,Diesel,0,76.4,1.5,ford
+ Astra,2016,10000,Semi-Auto,13028,Petrol,125,52.3,1.4,vauxhall
+ Q5,2016,19498,Manual,29049,Diesel,200,47.9,2,Audi
+ Auris,2017,17628,Automatic,25000,,0,,1.8,toyota
+ Kuga,2017,15400,Manual,29004,Diesel,150,54.3,2,ford
+ Kuga,2015,7992,Manual,123000,Diesel,125,60.1,2,ford
+ Corsa,2019,10695,Manual,8238,Petrol,145,43.5,1.4,vauxhall
+ Mokka X,2017,11591,Semi-Auto,24133,Petrol,160,43.5,1.4,vauxhall
+ I10,2020,11995,Manual,610,Petrol,145,56.5,1,hyundi
+ 3 Series,2019,33475,Semi-Auto,8576,Diesel,145,49.6,2,BMW
+ 2 Series,2019,19990,Semi-Auto,7891,Diesel,145,65.7,2,BMW
+ C Class,2019,21599,Semi-Auto,9723,Diesel,145,61.4,2,merc
+ Crossland X,2017,10591,Manual,6957,Petrol,150,58.9,1.2,vauxhall
+ Mokka X,2019,12200,Manual,18803,Petrol,145,39.2,1.4,vauxhall
+ Corsa,2015,5998,Manual,55493,Petrol,125,53.3,1.2,vauxhall
+ Q5,2015,20176,Automatic,23530,Diesel,200,47.1,2,Audi
+ Kuga,2017,13600,Manual,11744,Diesel,30,64.2,1.5,ford
+ Passat,2019,21995,Semi-Auto,200,Diesel,145,47.1,1.6,volkswagen
+ Astra,2019,17399,Automatic,10,Petrol,145,42.8,1.4,vauxhall
+ Fiesta,2018,11500,Manual,3362,Petrol,150,65.7,1,ford
+ 1 Series,2015,11933,Semi-Auto,19168,Petrol,145,49.6,1.6,BMW
+ Focus,2018,11499,Manual,21023,Petrol,145,60.1,1,ford
+ A3,2016,11695,Manual,88140,Diesel,20,67.3,2,Audi
+ A4,2019,25990,Automatic,3212,Diesel,145,50.4,2,Audi
+ SQ7,2017,52888,Automatic,12000,Diesel,145,39.2,4,Audi
+ Q5,2016,19998,Manual,34189,Diesel,200,47.9,2,Audi
+ GLB Class,2020,39995,Semi-Auto,1912,Diesel,145,44.8,2,merc
+ Viva,2016,6180,Manual,22081,Petrol,20,62.8,1,vauxhall
+ RAV4,2013,10498,Manual,54057,Diesel,160,49.6,2.2,toyota
+ A1,2015,13942,Manual,19516,Petrol,30,58.9,1.4,Audi
+ 1 Series,2014,8499,Manual,43248,Diesel,20,68.9,2,BMW
+ C-MAX,2011,4795,Manual,62734,Petrol,200,42.8,1.6,ford
+ Fabia,2019,10395,Manual,3000,Petrol,145,57.7,1,skoda
+ Q3,2015,14990,Manual,55000,Diesel,145,52.3,2,Audi
+ GLC Class,2017,25750,Automatic,22000,Diesel,145,56.5,2.1,merc
+ Mokka X,2018,13995,Semi-Auto,9000,Petrol,145,37.2,1.4,vauxhall
+ X3,2019,56000,Semi-Auto,26,Petrol,145,24.8,3,BMW
+ Mokka X,2017,11995,Automatic,24418,Petrol,160,43.5,1.4,vauxhall
+ Tucson,2017,14100,Semi-Auto,27299,Diesel,145,57.6,1.7,hyundi
+ Golf,2016,19998,Semi-Auto,37482,Petrol,200,39.8,2,volkswagen
+ Fiesta,2017,10990,Manual,10427,Petrol,145,65.7,1,ford
+ Q5,2019,33985,Automatic,355,Diesel,145,39.2,2,Audi
+ Golf,2014,8698,Manual,36636,Petrol,30,53.3,1.4,volkswagen
+ X5,2019,47995,Semi-Auto,4339,Diesel,145,37.7,3,BMW
+ A4,2019,24895,Semi-Auto,3679,Petrol,145,38.7,2,Audi
+ Golf,2019,24290,Manual,2500,Petrol,145,47.9,1.5,volkswagen
+ Kuga,2019,23000,Automatic,8000,Diesel,145,38.7,2,ford
+ 3 Series,2006,14500,Automatic,20000,Petrol,540,28.8,2.2,BMW
+ Mokka X,2017,11995,Semi-Auto,28531,Petrol,160,43.5,1.4,vauxhall
+ X1,2020,36991,Semi-Auto,800,Diesel,145,60.1,2,BMW
+ GLC Class,2019,42495,Automatic,8999,Petrol,145,34,3,merc
+ 3 Series,2017,17998,Semi-Auto,32000,Diesel,145,62.8,2,BMW
+ Corsa,2018,8250,Manual,27826,Petrol,145,55.4,1.4,vauxhall
+ E Class,2018,23499,Semi-Auto,13904,Diesel,145,67.3,2,merc
+ Octavia,2015,8698,Manual,47000,Diesel,0,74.3,1.6,skoda
+ Adam,2018,12499,Manual,9037,Petrol,145,44.8,1.2,vauxhall
+ Golf,2020,27990,Automatic,390,Petrol,150,44.1,1.5,volkswagen
+ Mondeo,2013,7995,Automatic,45050,Diesel,160,50.4,2,ford
+ Focus,2018,13495,Manual,10335,Petrol,145,57.7,1,ford
+ Q5,2019,51990,Semi-Auto,3712,Diesel,145,34.5,3,Audi
+ Focus,2018,11999,Manual,26898,Petrol,145,57.7,1,ford
+ Citigo,2019,9399,Manual,4847,Petrol,150,65.7,1,skoda
+ 5 Series,2016,13499,Automatic,72095,Diesel,30,62.8,2,BMW
+ 4 Series,2016,17199,Automatic,41589,Diesel,160,49.6,3,BMW
+ X7,2019,69995,Semi-Auto,4997,Diesel,145,31.4,3,BMW
+ Golf,2017,17995,Semi-Auto,30739,Diesel,30,62.8,2,volkswagen
+ C Class,2020,39759,Semi-Auto,1000,Diesel,145,54.3,2,merc
+ GLA Class,2016,16591,Semi-Auto,48808,Diesel,125,56.5,2.1,merc
+ Fiesta,2014,6988,Manual,53987,Petrol,0,65.7,1,ford
+ Kodiaq,2019,21495,Automatic,8303,Diesel,145,56.5,2,skoda
+ I20,2019,12495,Manual,5000,Petrol,145,46.3,1.2,hyundi
+ C Class,2019,30889,Automatic,8500,Diesel,145,61.4,2,merc
+ A3,2017,25999,Manual,21349,Petrol,200,39.8,2,Audi
+ Golf,2019,24490,Manual,7982,Petrol,145,37.7,2,volkswagen
+ Crossland X,2018,10750,Manual,6500,Petrol,145,44.8,1.2,vauxhall
+ Fiesta,2019,16980,Manual,4003,Petrol,145,60.1,1,ford
+ X5,2019,48892,Automatic,7666,Diesel,145,37.7,3,BMW
+ C Class,2020,,Semi-Auto,2669,,145,,2,merc
+ Corsa,2010,2995,Manual,71000,Petrol,125,53.3,1.2,vauxhall
+ Focus,2016,10991,Manual,25152,Diesel,0,74.3,1.5,ford
+ 2 Series,2018,14995,Automatic,13889,Petrol,145,55.4,1.5,BMW
+ Astra,2017,10290,Manual,28000,Diesel,20,72.4,1.6,vauxhall
+ A7,2017,22895,Semi-Auto,49281,Diesel,150,54.3,3,Audi
+ I10,2019,10495,Semi-Auto,7077,,145,,1.2,hyundi
+ Golf,2016,12795,Manual,25556,Petrol,30,53.3,1.4,volkswagen
+ Fiesta,2017,8990,Manual,14461,Petrol,125,54.3,1.2,ford
+ A1,2020,21888,Semi-Auto,3500,Petrol,145,44.8,1.5,Audi
+ Aygo,2017,8390,Manual,19088,Petrol,145,68.9,1,toyota
+ C Class,2016,16695,Semi-Auto,41000,Diesel,30,64.2,2.1,merc
+ Fiesta,2014,9995,Manual,37484,Petrol,145,47.9,1.6,ford
+ Polo,2015,9195,Semi-Auto,22150,Petrol,20,60.1,1.2,volkswagen
+ Fabia,2015,5700,Manual,56746,Petrol,20,58.8,1.2,skoda
+ RS3,2015,26995,Semi-Auto,60457,Petrol,300,34.9,2.5,Audi
+ Tiguan,2014,10100,Manual,43927,Diesel,165,48.7,2,volkswagen
+ IX35,2014,8499,Manual,44016,Diesel,145,53.3,1.7,hyundi
+ Fiesta,2013,5999,Manual,75639,Petrol,0,65.7,1,ford
+ Q3,2017,18444,Semi-Auto,39913,Petrol,150,47.9,1.4,Audi
+ Fiesta,2019,15499,Manual,7175,Petrol,145,55.4,1,ford
+ Fiesta,2016,10175,Manual,7917,Petrol,0,65.7,1,ford
+ C Class,2019,29399,Semi-Auto,8545,Diesel,145,61.4,2,merc
+ Tiguan,2018,21012,Semi-Auto,14065,Diesel,145,46.3,2,volkswagen
+ Crossland X,2019,11440,Manual,16137,Petrol,145,47.1,1.2,vauxhall
+ A3,2015,18489,Semi-Auto,49748,Petrol,200,39.8,2,Audi
+ Fiesta,2015,9995,Automatic,4000,Petrol,145,47.9,1.6,ford
+ Edge,2017,19695,Semi-Auto,27697,Diesel,145,48.7,2,ford
+ Touareg,2017,23890,Automatic,49632,Diesel,240,42.8,3,volkswagen
+ Passat,2018,15485,Semi-Auto,32007,Diesel,145,62.8,2,volkswagen
+ Octavia,2019,20795,Semi-Auto,7200,Petrol,145,37.7,2,skoda
+ Fiesta,2019,16500,Manual,4578,Petrol,145,58.9,1,ford
+ T-Roc,2018,16799,Manual,16817,Petrol,145,55.4,1,volkswagen
+ Edge,2018,26995,Automatic,8633,Diesel,145,47.9,2,ford
+ S-MAX,2016,15500,Manual,27790,Diesel,125,56.5,2,ford
+ E Class,2017,20998,Semi-Auto,22930,Diesel,145,72.4,2,merc
+ A Class,2018,16699,Manual,26758,Petrol,145,51.4,1.6,merc
+ Q7,2019,66990,Automatic,6000,Diesel,145,33.2,3,Audi
+ Kodiaq,2018,21533,Automatic,17884,Petrol,145,44.8,1.4,skoda
+ Corsa,2015,7000,Manual,34387,Petrol,20,64.2,1,vauxhall
+ A4,2016,14950,Manual,22000,Petrol,145,51.4,1.4,Audi
+ C-MAX,2016,9498,Manual,17231,Diesel,20,68.9,1.5,ford
+ Astra,2016,8000,Manual,53941,Diesel,0,78.5,1.6,vauxhall
+ 1 Series,2018,21999,Automatic,16475,Petrol,145,39.8,3,BMW
+ Yaris,2013,6675,Manual,45763,Petrol,125,51.4,1.3,toyota
+ Focus,2018,11618,Manual,10000,Petrol,145,61.4,1,ford
+ Astra,2016,8298,Manual,54794,Diesel,0,74.3,1.6,vauxhall
+ GTC,2017,10998,Manual,23903,Petrol,165,47.1,1.4,vauxhall
+ I10,2017,6495,Manual,33501,Petrol,150,60.1,1,hyundi
+ GLE Class,2016,36182,Automatic,40945,Diesel,300,39.2,3,merc
+ Golf SV,2018,15490,Manual,20920,Petrol,145,55.4,1.5,volkswagen
+ Focus,2017,11800,Manual,13601,Petrol,20,60.1,1,ford
+ Mondeo,2017,12791,Manual,29252,Diesel,150,65.7,2,ford
+ 1 Series,2017,18290,Manual,21491,Petrol,260,36.2,3,BMW
+ A4,2017,17190,Manual,35790,Diesel,30,67.3,2,Audi
+ Focus,2017,15440,Manual,19877,Petrol,145,41.5,2,ford
+ 1 Series,2017,13798,Manual,34446,Diesel,145,65.7,2,BMW
+ GLE Class,2020,56995,Semi-Auto,4242,Diesel,150,32.5,2.9,merc
+ A3,2015,12999,Manual,32842,Diesel,30,67.3,1.6,Audi
+ Fiesta,2013,5790,Manual,40000,Petrol,30,54.3,1.2,ford
+ A3,2019,19888,Manual,6161,Diesel,145,56.5,2,Audi
+ Land Cruiser,2019,39498,Semi-Auto,12543,Diesel,145,30.1,2.8,toyota
+ E Class,2012,12495,Automatic,50000,Diesel,160,53.3,2.1,merc
+ Passat,2019,23790,Semi-Auto,5831,Petrol,145,40.4,2,volkswagen
+ A4,2019,46450,Automatic,2000,Diesel,145,39.2,3,Audi
+ Polo,2016,8995,Manual,17725,Petrol,20,60.1,1,volkswagen
+ A6,2016,18900,Manual,37848,Diesel,30,61.4,2,Audi
+ B Class,2018,17495,Semi-Auto,6500,Petrol,150,51.4,1.6,merc
+ Fiesta,2018,11000,Manual,15000,,145,65.7,1,ford
+ 3 Series,2019,18999,Automatic,11749,Diesel,145,62.8,2,BMW
+ Touran,2018,15998,Semi-Auto,18888,Diesel,145,65.7,1.6,volkswagen
+ Mondeo,2015,6793,Manual,130000,Diesel,20,68.9,2,ford
+ Yaris,2016,9995,Automatic,46344,,0,,1.5,toyota
+ TT,2002,2876,Manual,99000,Petrol,295,30.1,1.8,Audi
+ A1,2017,13290,Manual,33574,Diesel,145,76.3,1.6,Audi
+ Golf,2020,19850,Manual,5000,Diesel,145,57.7,1.6,volkswagen
+ Scirocco,2014,12600,Manual,37506,Diesel,20,55.4,2,volkswagen
+ Focus,2018,13490,Manual,13842,Petrol,145,57.7,1,ford
+ A1,2019,18990,Manual,291,Petrol,150,46.3,1.5,Audi
+ Astra,2020,15998,Manual,10,Petrol,150,54.3,1.2,vauxhall
+ Fabia,2019,12648,Semi-Auto,14052,Petrol,145,60.1,1,skoda
+ Octavia,2019,26795,Semi-Auto,15,Petrol,145,37.2,2,skoda
+ Ka+,2019,9400,Manual,6954,Petrol,145,47.9,1.2,ford
+ Mokka,2014,7990,Manual,54000,,145,,1.4,vauxhall
+ 3 Series,2019,34790,Automatic,123,Diesel,145,50.4,2,BMW
+ Astra,2016,7250,Manual,63240,Diesel,0,78.5,1.6,vauxhall
+ Kuga,2018,19399,Manual,4883,Diesel,145,47.9,1.5,ford
+ Focus,2019,17497,Manual,8493,Petrol,145,60.1,1,ford
+ A4,2019,24245,Automatic,4500,Diesel,145,48.7,2,Audi
+ GLC Class,2019,36800,Semi-Auto,6112,Diesel,145,40.9,2,merc
+ A3,2013,14995,Semi-Auto,38776,Petrol,30,56.5,1.4,Audi
+ Polo,2017,9700,Manual,28984,Diesel,145,83.1,1.4,volkswagen
+ Mokka X,2019,12499,Manual,10828,,145,39.2,1.4,vauxhall
+ Crossland X,2018,11695,Manual,25006,Petrol,145,58.9,1.2,vauxhall
+ Astra,2020,14990,Manual,100,Petrol,145,54.3,1.2,vauxhall
+ Fiesta,2018,11995,Manual,13832,Petrol,145,65.7,1,ford
+ Insignia,2015,5991,Automatic,134000,Diesel,160,50.4,2,vauxhall
+ Corsa,2018,9495,Manual,6000,Petrol,145,43.5,1.4,vauxhall
+ A5,2019,30000,Automatic,4012,Petrol,145,40.4,2,Audi
+ Touareg,2017,27182,Semi-Auto,17325,Diesel,145,42.8,3,volkswagen
+ Polo,2016,9545,Manual,20701,Petrol,20,60.1,1.2,volkswagen
+ Scala,2020,16995,Manual,1000,Petrol,150,49.6,1,skoda
+ B-MAX,2014,7998,Manual,9181,Petrol,30,55.4,1,ford
+ A5,2017,18500,Manual,30984,Diesel,145,68.9,2,Audi
+ IX20,2017,8995,Automatic,31406,Petrol,145,43.5,1.6,hyundi
+ A3,2017,21495,Semi-Auto,9031,Petrol,145,47.9,2,Audi
+ Mokka X,2017,13995,Semi-Auto,10757,Petrol,160,43.5,1.4,vauxhall
+ A4,2019,22750,Automatic,4797,Petrol,145,39.2,2,Audi
+ A Class,2019,25399,Automatic,5976,Diesel,145,56.5,2,merc
+ 4 Series,2015,10195,Automatic,110720,Diesel,125,61.4,2,BMW
+ Astra,2018,11499,Manual,30787,Petrol,145,51.4,1.4,vauxhall
+ 3 Series,2019,30326,Semi-Auto,3392,,145,,2,BMW
+ Scala,2019,13995,Manual,7550,Petrol,145,49.6,1,skoda
+ Golf,2016,12500,Manual,18500,Petrol,30,53.3,1.4,volkswagen
+ Polo,2019,14923,Manual,4986,Petrol,145,47.9,1,volkswagen
+ X6,2019,58900,Automatic,15,Diesel,145,34.9,3,BMW
+ IX20,2014,5998,Manual,42386,Diesel,30,64.2,1.6,hyundi
+ Mokka X,2018,12295,Manual,15500,Petrol,150,47.1,1.4,vauxhall
+ Golf,2016,19681,Semi-Auto,22817,Petrol,160,44.1,2,volkswagen
+ Golf,2019,19985,Manual,1226,Diesel,145,57.7,1.6,volkswagen
+ Fiesta,2014,6799,Manual,41000,Petrol,30,54.3,1.2,ford
+ Aygo,2017,8383,Manual,9989,Petrol,145,68.9,1,toyota
+ GLC Class,2019,34499,Semi-Auto,138,,145,,2,merc
+ Arteon,2019,24995,Semi-Auto,4989,Diesel,145,50.4,2,volkswagen
+ Superb,2019,24960,Semi-Auto,7357,Diesel,145,48.7,2,skoda
+ Grand C-MAX,2018,11999,Manual,21384,Petrol,145,54.3,1,ford
+ 5 Series,2012,11400,Automatic,86674,Diesel,235,43.5,3,BMW
+ Focus,2016,8080,Manual,57894,Diesel,0,74.3,1.5,ford
+ Fabia,2017,9338,Manual,13518,Petrol,145,64.2,1,skoda
+ Citigo,2016,7495,Manual,6044,Petrol,20,62.8,1,skoda
+ Up,2018,8990,Manual,9556,Petrol,145,60.1,1,volkswagen
+ Kodiaq,2017,22990,Automatic,30272,Petrol,145,39.8,1.4,skoda
+ Fiesta,2015,7995,Manual,8700,Petrol,125,54.3,1.2,ford
+ Fiesta,2016,7500,Manual,30762,Petrol,0,65.7,1,ford
+ Q2,2017,18950,Manual,19638,Petrol,150,52.3,1.4,Audi
+ Crossland X,2019,15000,Manual,3375,Petrol,145,44.8,1.2,vauxhall
+ A7,2018,29900,Semi-Auto,17693,Diesel,145,52.3,3,Audi
+ Grand C-MAX,2017,10999,Automatic,18415,Diesel,30,58.9,1.5,ford
+ Auris,2015,7995,Manual,66532,Diesel,20,67.3,1.6,toyota
+ RS5,2019,53490,Automatic,1000,Petrol,145,30.4,2.9,Audi
+ Kodiaq,2019,29999,Automatic,11364,Diesel,145,39.2,2,skoda
+ A Class,2018,19950,Automatic,89,Diesel,145,65.7,1.5,merc
+ I20,2017,8795,Manual,10670,,145,58.9,1.2,hyundi
+ Corsa,2016,6350,Manual,54000,Petrol,30,55.4,1.4,vauxhall
+ GLC Class,2019,32367,Automatic,6257,Diesel,145,56.5,2.1,merc
+ Kuga,2018,19900,Manual,4205,,145,39.2,1.5,ford
+ C Class,2019,31099,Automatic,1935,Petrol,145,44.1,2,merc
+ Focus,2017,11990,Manual,29478,Diesel,145,74.3,1.5,ford
+ Polo,2019,15790,Semi-Auto,5000,Petrol,145,46.3,1,volkswagen
+ Mokka X,2018,13695,Manual,14995,Petrol,145,47.1,1.4,vauxhall
+ Karoq,2019,23850,Manual,7250,Diesel,145,42.8,2,skoda
+ Polo,2017,9995,Manual,33568,Petrol,145,60.1,1.2,volkswagen
+ A3,2017,19300,Manual,19471,Petrol,145,55.4,1.5,Audi
+ Mokka X,2019,12298,Manual,11454,Petrol,145,39.2,1.4,vauxhall
+ Tiguan,2017,17981,Semi-Auto,24544,Diesel,160,49.6,2,volkswagen
+ A6,2019,26450,Automatic,5950,Diesel,145,50.4,2,Audi
+ 5 Series,2019,29950,Semi-Auto,4043,Diesel,145,60.1,2,BMW
+ Astra,2019,11998,Manual,25763,Petrol,145,51.4,1.4,vauxhall
+ Focus,2016,8200,Automatic,47021,Petrol,125,51.4,1,ford
+ Q3,2016,16490,Manual,38309,Diesel,145,52.3,2,Audi
+ X6,2015,26980,Semi-Auto,51447,Diesel,205,47.1,3,BMW
+ Tucson,2020,22495,Manual,50,Petrol,145,34.9,1.6,hyundi
+ GLE Class,2017,38248,Automatic,19300,Diesel,145,39.2,3,merc
+ A4,2015,9500,Automatic,79813,Petrol,160,45.6,1.8,Audi
+ 1 Series,2016,10989,Manual,31319,Diesel,20,72.4,1.5,BMW
+ I30,2009,2250,Manual,116000,Diesel,30,60.1,1.6,hyundi
+ Focus,2018,19490,Manual,9196,Diesel,145,67.3,2,ford
+ GLC Class,2017,26989,Automatic,28037,,125,,2.1,merc
+ Corsa,2008,2995,Manual,80000,Petrol,165,47.9,1.4,vauxhall
+ Polo,2017,10599,Manual,20859,Petrol,150,60.1,1.2,volkswagen
+ Octavia,2015,13297,Semi-Auto,47527,Diesel,150,55.4,2,skoda
+ Golf,2015,18440,Manual,16794,Petrol,200,39.8,2,volkswagen
+ Corsa,2018,8190,Manual,18601,Petrol,145,54.3,1.4,vauxhall
+ A1,2015,10965,Manual,47000,Petrol,30,55.4,1.4,Audi
+ X5,2016,29985,Automatic,80058,Diesel,235,42.8,3,BMW
+ A5,2016,17322,Manual,52405,Diesel,160,53.3,2,Audi
+ IX35,2013,6999,Manual,55472,Diesel,145,53.3,1.7,hyundi
+ Fiesta,2016,6950,Manual,29699,Petrol,125,54.3,1.2,ford
+ Fiesta,2016,8232,Manual,27325,Petrol,125,54.3,1.2,ford
+ Focus,2012,6490,Manual,48000,Petrol,30,56.5,1,ford
+ Yaris,2017,9230,Manual,4312,Petrol,30,58,1.3,toyota
+ Yeti,2017,12296,Semi-Auto,29603,Petrol,125,51.4,1.2,skoda
+ GLA Class,2017,21099,Semi-Auto,20000,Diesel,145,56.6,2.1,merc
+ Insignia,2017,10260,Manual,38608,Diesel,30,64.2,1.6,vauxhall
+ E Class,2015,16298,Automatic,38829,Diesel,160,53.3,3,merc
+ C Class,2019,45980,Semi-Auto,4504,Petrol,145,29.7,3,merc
+ X3,2016,13400,Automatic,85575,Diesel,150,54.3,2,BMW
+ Kodiaq,2018,22499,Manual,15394,Diesel,150,51.4,2,skoda
+ EcoSport,2018,14560,Manual,1090,Petrol,145,54.3,1,ford
+ Fiesta,2015,6291,Manual,68379,Petrol,0,65.7,1,ford
+ Corsa,2018,8690,Manual,2270,Petrol,145,54.3,1.4,vauxhall
+ 1 Series,2016,12300,Manual,30856,Diesel,20,68.9,2,BMW
+ Kuga,2019,19595,Manual,14294,Petrol,145,39.2,1.5,ford
+ CLS Class,2013,12975,Automatic,72216,Diesel,200,46.3,3,merc
+ Fiesta,2017,8680,Manual,41491,,145,,1,ford
+ Astra,2016,8995,Manual,38659,Petrol,125,51.4,1.4,vauxhall
+ Tiguan Allspace,2019,27990,Semi-Auto,6008,Petrol,145,35.8,1.5,volkswagen
+ Corsa,2017,7995,Manual,20320,Petrol,30,55.4,1.4,vauxhall
+ Polo,2010,3695,Manual,102000,Diesel,20,67.3,1.6,volkswagen
+ C Class,2017,21750,Automatic,16750,Diesel,125,58.9,2.1,merc
+ I800,2018,14000,Manual,38090,Diesel,145,37.7,2.5,hyundi
+ Astra,2016,9998,Semi-Auto,36463,,125,,1.6,vauxhall
+ Q2,2019,28990,Automatic,2381,Petrol,145,33.2,2,Audi
+ IX35,2014,6995,Manual,64021,Diesel,145,53.3,1.7,hyundi
+ 3 Series,2015,15995,Automatic,33003,Diesel,145,56.5,3,BMW
+ 1 Series,2017,14610,Semi-Auto,30939,Diesel,30,65.7,2,BMW
+ Focus,2019,17000,Manual,7600,Petrol,145,58.9,1,ford
+ Fiesta,2018,9695,Manual,16110,Petrol,145,55.4,1.1,ford
+ Passat,2019,16495,Manual,14743,Diesel,145,54.3,2,volkswagen
+ Ka+,2017,7491,Manual,7000,Petrol,150,57.7,1.2,ford
+ Mokka X,2019,12398,Manual,11346,Petrol,145,39.2,1.4,vauxhall
+ Fiesta,2016,9790,Manual,22892,Petrol,0,65.7,1,ford
+ E Class,2018,27991,Automatic,10327,Petrol,145,40.4,2,merc
+ Corsa,2018,10000,Automatic,12000,Petrol,145,47.9,1.4,vauxhall
+ Tiguan,2017,17771,Semi-Auto,35630,Diesel,160,49.6,2,volkswagen
+ Octavia,2018,12498,Manual,15317,Diesel,150,68.9,1.6,skoda
+ Fiesta,2016,9533,Semi-Auto,17457,Petrol,0,57.7,1,ford
+ Focus,2019,16730,Manual,4725,Petrol,145,58.9,1,ford
+ RAV4,2016,14817,Manual,35286,Diesel,125,60.1,2,toyota
+ Focus,2017,12452,Manual,18729,Petrol,145,50.4,1.5,ford
+ B-MAX,2017,10000,Manual,29990,Petrol,145,57.7,1,ford
+ Adam,2018,9500,Manual,1095,Petrol,150,53.3,1.2,vauxhall
+ Fiesta,2017,9300,Manual,29885,Petrol,150,65.7,1,ford
+ I10,2017,7795,Manual,16609,Petrol,30,57.7,1.2,hyundi
+ Meriva,2017,6999,Manual,65530,Diesel,30,64.2,1.6,vauxhall
+ Golf,2019,16500,Semi-Auto,17043,Diesel,145,54.3,1.6,volkswagen
+ C Class,2019,29549,Semi-Auto,5071,Diesel,145,55.4,2,merc
+ Ka+,2017,6695,Manual,24000,Petrol,30,57.7,1.2,ford
+ GLA Class,2018,22412,Automatic,8109,Diesel,145,56.5,2.1,merc
+ Polo,2016,11750,Manual,36220,Petrol,20,61.4,1.4,volkswagen
+ Passat,2020,21998,Semi-Auto,12,Diesel,145,49.6,1.6,volkswagen
+ Mokka X,2019,14190,Manual,13635,Petrol,145,39.2,1.4,vauxhall
+ X5,2014,26990,Automatic,37563,Diesel,205,47.1,3,BMW
+ Citigo,2013,5000,Manual,32716,Petrol,0,68.9,1,skoda
+ Astra,2018,11990,Manual,8075,Petrol,145,51.4,1.4,vauxhall
+ EcoSport,2018,13999,Manual,10579,Petrol,145,54.3,1,ford
+ Focus,2013,7299,Manual,62943,Diesel,20,67.3,1.6,ford
+ X3,2019,35292,Semi-Auto,4599,Diesel,145,54.3,2,BMW
+ Ioniq,2017,12800,Automatic,54698,Other,140,78.5,1.6,hyundi
+ X3,2019,32995,Semi-Auto,1107,Petrol,145,30.4,2,BMW
+ Passat,2018,17998,Manual,6502,Petrol,150,45.6,1.5,volkswagen
+ A Class,2019,23500,Semi-Auto,10617,Petrol,150,53.3,1.3,merc
+ GTC,2015,6998,Manual,49897,Petrol,165,47.1,1.4,vauxhall
+ Polo,2016,9552,Manual,15329,Petrol,20,60.1,1,volkswagen
+ Kodiaq,2019,21798,Automatic,14971,Petrol,145,34,1.5,skoda
+ 3 Series,2016,14991,Semi-Auto,20923,Diesel,20,70.6,2,BMW
+ Crossland X,2019,15995,Automatic,9641,Diesel,145,55.4,1.5,vauxhall
+ Focus,2017,11000,Manual,17423,Petrol,150,60.1,1,ford
+ Golf,2015,16995,Manual,51244,Petrol,205,39.8,2,volkswagen
+ Mondeo,2017,9999,Manual,64447,Petrol,145,48.7,1.5,ford
+ Kuga,2016,10390,Manual,29325,Diesel,125,60.1,2,ford
+ Astra,2014,6999,Manual,33282,Petrol,165,44.8,1.6,vauxhall
+ T-Roc,2018,17499,Manual,14944,Petrol,145,53.3,1.5,volkswagen
+ Touareg,2020,49999,Semi-Auto,2000,Diesel,145,33.6,3,volkswagen
+ Kuga,2017,14999,Automatic,15500,Petrol,240,38.2,1.5,ford
+ CL Class,2019,27299,Semi-Auto,3225,Petrol,145,38.2,2,merc
+ Ka+,2016,7995,Manual,13057,Petrol,30,57.7,1.2,ford
+ Golf,2019,15891,Manual,9898,Petrol,145,47.1,1.5,volkswagen
+ Ioniq,2018,15795,Automatic,32360,Hybrid,135,78.5,1.6,hyundi
+ I800,2019,16199,Manual,21457,Diesel,145,31.7,2.5,hyundi
+ E Class,2017,20998,Semi-Auto,27671,Diesel,145,72.4,2,merc
+ I30,2018,11000,Manual,17800,Petrol,150,45.6,1,hyundi
+ Kuga,2017,12395,Manual,19000,Petrol,165,45.6,1.5,ford
+ Scala,2020,17490,Semi-Auto,50,Petrol,150,47.1,1,skoda
+ Edge,2016,17900,Manual,27500,Diesel,160,48.7,2,ford
+ Fiesta,2016,7500,Manual,44264,Petrol,0,65.7,1,ford
+ Q3,2019,28990,Manual,3629,Petrol,145,39.8,1.5,Audi
+ E Class,2017,22299,Semi-Auto,22810,Diesel,145,65.7,2,merc
+ Octavia,2019,18495,Semi-Auto,9653,Diesel,145,57.7,2,skoda
+ T-Roc,2020,24825,Automatic,975,Petrol,145,39.8,1.5,volkswagen
+ GLS Class,2017,38250,Automatic,7201,Diesel,150,37.2,3,merc
+ Octavia,2017,11995,Semi-Auto,25391,Petrol,150,57.7,1.4,skoda
+ Mokka X,2017,12998,Semi-Auto,5683,Petrol,165,43.5,1.4,vauxhall
+ Scirocco,2008,5000,Manual,82156,Petrol,260,37.2,2,volkswagen
+ Corsa,2016,7591,Manual,14788,Petrol,30,55.4,1.4,vauxhall
+ Up,2018,11995,Manual,12000,Petrol,145,50.4,1,volkswagen
+ 2 Series,2020,22875,Semi-Auto,13,Petrol,150,50.4,1.5,BMW
+ Corsa,2019,10699,Manual,3772,Petrol,145,44.8,1.4,vauxhall
+ Fiesta,2018,10495,Manual,10964,Petrol,145,65.7,1,ford
+ Kuga,2018,16987,Manual,15925,Petrol,145,45.6,1.5,ford
+ Superb,2017,16775,Manual,42271,Diesel,20,67.3,2,skoda
+ Q3,2013,14550,Semi-Auto,48627,Petrol,260,36.7,2,Audi
+ CL Class,2019,25240,Automatic,14049,Diesel,145,51.4,2.2,merc
+ A Class,2019,24669,Semi-Auto,1000,Petrol,145,28.5,2,merc
+ Corsa,2017,8500,Manual,18835,Petrol,30,54.3,1.4,vauxhall
+ A Class,2016,15295,Automatic,34595,Diesel,20,74.3,1.5,merc
+ A4,2019,28000,Automatic,3838,Petrol,145,40.9,2,Audi
+ Polo,2019,12856,Manual,12505,Petrol,145,48.7,1,volkswagen
+ Edge,2017,20495,Manual,19175,Diesel,150,48.7,2,ford
+ Fiesta,2018,10890,Manual,10255,,145,65.7,1,ford
+ Yeti,2017,13990,Semi-Auto,16888,Petrol,125,51.4,1.2,skoda
+ X5,2019,49750,Automatic,5800,Diesel,150,37.7,3,BMW
+ Mokka X,2019,13099,Manual,9251,Petrol,145,39.2,1.4,vauxhall
+ Octavia,2018,12698,Manual,15421,Diesel,145,68.9,1.6,skoda
+ Corsa,2018,11500,Automatic,16519,,145,,1.4,vauxhall
+ C Class,2016,,Semi-Auto,11017,,30,,2.1,merc
+ A Class,2017,17498,Automatic,48931,Diesel,20,68.9,2.1,merc
+ A4,2016,13298,Manual,85793,Diesel,30,67.3,2,Audi
+ Focus,2018,11991,Manual,20595,Diesel,145,74.3,1.5,ford
+ C-MAX,2016,7480,Manual,51838,Diesel,20,68.9,1.5,ford
+ GLC Class,2017,25995,Semi-Auto,38941,Diesel,145,56.5,2.1,merc
+ C-MAX,2019,15489,Manual,3916,Petrol,145,48.7,1,ford
+ Q2,2019,22976,Automatic,3951,Petrol,145,42.8,1.5,Audi
+ Tucson,2019,15998,Manual,9488,Petrol,145,34.9,1.6,hyundi
+ Fiesta,2015,9000,Manual,6589,Petrol,0,65.7,1,ford
+ A5,2019,33440,Automatic,18961,Petrol,145,36.7,2,Audi
+ Kodiaq,2018,20300,Manual,14652,Diesel,150,52.3,2,skoda
+ S-MAX,2019,22979,Manual,8199,Petrol,145,33.6,1.5,ford
+ Golf,2017,18042,Semi-Auto,6725,Diesel,30,62.8,2,volkswagen
+ 2 Series,2019,25449,Automatic,3890,Diesel,145,48.7,2,BMW
+ GLE Class,2019,52800,Automatic,3317,Diesel,145,36.7,2,merc
+ Superb,2017,14495,Semi-Auto,57506,Diesel,145,58.9,2,skoda
+ Fabia,2017,9490,Manual,31150,Petrol,150,64.2,1,skoda
+ Viva,2017,6492,Manual,25701,Petrol,20,62.8,1,vauxhall
+ C Class,2019,29998,Semi-Auto,836,Petrol,145,43.5,2,merc
+ Golf SV,2019,20890,Automatic,4950,Petrol,145,44.1,1.5,volkswagen
+ Up,2015,8200,Manual,8283,Petrol,20,60.1,1,volkswagen
+ E Class,2016,19402,Semi-Auto,18217,Petrol,160,45.6,2,merc
+ Astra,2019,10948,Manual,13184,Petrol,150,47.9,1.4,vauxhall
+ X3,2015,18192,Manual,33269,Diesel,160,52.3,2,BMW
+ Mondeo,2016,11250,Manual,32426,Diesel,20,68.9,2,ford
+ Scala,2019,14928,Manual,6251,Petrol,145,49.6,1,skoda
+ A Class,2017,16499,Automatic,19425,Diesel,145,68.9,2.1,merc
+ GL Class,2016,17999,Automatic,26511,Diesel,125,56.5,2.1,merc
+ Focus,2015,9933,Automatic,16186,Petrol,165,44.8,1.6,ford
+ I20,2017,8995,Manual,35500,Petrol,145,62.8,1,hyundi
+ C-HR,2017,20491,Automatic,9000,Hybrid,135,74.3,1.8,toyota
+ Golf,2016,9889,Manual,44856,Diesel,0,74.3,1.6,volkswagen
+ Tucson,2016,12495,Manual,33500,Diesel,30,61.7,1.7,hyundi
+ Tiguan,2017,18495,Manual,48100,Diesel,165,50.4,2,volkswagen
+ 3 Series,2017,18495,Automatic,29681,Petrol,145,48.7,2,BMW
+ Fiesta,2017,10999,Automatic,27460,Petrol,145,57.7,1,ford
+ Fiesta,2016,9998,Semi-Auto,20069,Petrol,0,57.7,1,ford
+ Q3,2015,12999,Manual,46062,Petrol,125,50.4,1.4,Audi
+ Q3,2016,16800,Manual,40120,Diesel,150,52.3,2,Audi
+ C Class,2015,14000,Automatic,73960,Diesel,30,64.2,2.1,merc
+ Puma,2020,20999,Manual,3952,Petrol,150,50.4,1,ford
+ X4,2019,35990,Semi-Auto,3098,Diesel,150,42.8,2,BMW
+ 5 Series,2020,35793,Semi-Auto,15,Petrol,145,48.7,2,BMW
+ C Class,2017,19124,Semi-Auto,46938,Diesel,125,58.9,2.1,merc
+ CC,2014,9580,Semi-Auto,57954,Diesel,145,53.3,2,volkswagen
+ GL Class,2016,18499,Automatic,46864,Diesel,125,56.5,2.1,merc
+ Focus,2017,9995,Manual,30091,Diesel,145,74.3,1.5,ford
+ 2 Series,2019,21858,Manual,123,Diesel,145,61.4,2,BMW
+ Fiesta,2018,10890,Manual,10230,Petrol,145,55.4,1.1,ford
+ I40,2015,7830,Manual,59508,Diesel,30,65.7,1.7,hyundi
+ Touareg,2019,39999,Automatic,11833,Diesel,145,34.5,3,volkswagen
+ Passat,2016,12495,Manual,44000,Diesel,20,67.3,2,volkswagen
+ CC,2016,11965,Semi-Auto,55000,Diesel,125,56.5,2,volkswagen
+ Yaris,2016,8950,Manual,9000,Petrol,30,58,1.3,toyota
+ Crossland X,2019,16001,Manual,38000,Petrol,145,47.1,1.2,vauxhall
+ Polo,2019,12250,Manual,11703,Petrol,145,48.7,1,volkswagen
+ Tiguan,2017,23495,Semi-Auto,30000,Petrol,145,38.2,2,volkswagen
+ 1 Series,2015,13091,Manual,35000,Diesel,30,65.7,2,BMW
+ A Class,2019,24890,Automatic,1440,Diesel,145,56.5,2,merc
+ C Class,2017,20990,Automatic,18000,Diesel,145,58.9,2.1,merc
+ Yeti Outdoor,2017,11990,Manual,10441,Diesel,150,62.8,2,skoda
+ Focus,2018,17000,Manual,14903,Diesel,145,67.3,2,ford
+ X5,2013,24000,Automatic,45150,Diesel,200,45.6,3,BMW
+ EcoSport,2019,,Manual,3982,,150,,1,ford
+ C-MAX,2019,,Automatic,4000,,145,,1.5,ford
+ M4,2016,29998,Semi-Auto,34209,Petrol,300,34,3,BMW
+ A3,2020,24450,Semi-Auto,1183,Petrol,150,43.5,1.5,Audi
+ Astra,2018,9699,Manual,14094,Petrol,145,64.2,1,vauxhall
+ Insignia,2019,14998,Manual,27079,Diesel,150,53.3,2,vauxhall
+ 1 Series,2016,10999,Manual,27681,,0,,1.5,BMW
+ Fiesta,2016,7991,Manual,10094,Petrol,125,54.3,1.2,ford
+ Focus,2019,14300,Manual,8160,Petrol,145,58.9,1,ford
+ Fiesta,2017,12000,Manual,7626,Petrol,20,62.8,1,ford
+ Fiesta,2017,7260,Manual,24986,Petrol,125,54.3,1.2,ford
+ 1 Series,2016,17990,Automatic,14000,Petrol,235,37.7,3,BMW
+ Octavia,2019,14650,Automatic,14531,Petrol,145,57.7,1,skoda
+ Golf,2014,8500,Automatic,67000,Diesel,20,72.4,1.6,volkswagen
+ Astra,2019,14700,Manual,3500,Petrol,145,45.6,1.4,vauxhall
+ Ioniq,2017,16491,Automatic,20257,Hybrid,140,78.5,1.6,hyundi
+ V Class,2019,44980,Semi-Auto,16,Diesel,145,36.2,2,merc
+ A Class,2019,21895,Manual,9,,145,,1.3,merc
+ A Class,2019,24999,Semi-Auto,2691,Diesel,145,56.5,2,merc
+ C-MAX,2015,9900,Manual,15628,Petrol,30,55.4,1,ford
+ I30,2019,17490,Manual,3750,Petrol,145,42.2,1.4,hyundi
+ Zafira,2016,10000,Manual,25857,Petrol,200,43,1.4,vauxhall
+ Kamiq,2020,18490,Manual,1500,Petrol,145,49.6,1,skoda
+ Q3,2017,20890,Manual,13500,Diesel,145,56.5,2,Audi
+ Crossland X,2019,13460,Manual,9047,Petrol,145,44.8,1.2,vauxhall
+ C Class,2019,31890,Automatic,1499,Petrol,145,44.1,2,merc
+ EcoSport,2017,9615,Manual,19347,Petrol,145,52.3,1,ford
+ A1,2016,8490,Manual,29000,Diesel,0,76.3,1.6,Audi
+ C Class,2019,34919,Semi-Auto,2292,Petrol,145,44.1,1.5,merc
+ Fiesta,2019,14320,Manual,9326,Petrol,145,58.9,1,ford
+ Kamiq,2020,18990,Automatic,228,Petrol,145,44.1,1.5,skoda
+ Avensis,2016,12498,Manual,32189,Petrol,160,45.6,1.8,toyota
+ CL Class,2016,17299,Semi-Auto,37993,Diesel,20,67.3,2.1,merc
+ E Class,2019,24699,Semi-Auto,14735,Diesel,145,72.4,2,merc
+ A6,2014,14798,Semi-Auto,40700,Diesel,30,64.2,2,Audi
+ 5 Series,2015,13999,Automatic,50558,Diesel,30,62.8,2,BMW
+ A1,2019,21490,Semi-Auto,6000,Petrol,145,40.9,2,Audi
+ Mokka X,2018,11998,Manual,10044,Petrol,145,39.2,1.4,vauxhall
+ Q5,2019,30490,Semi-Auto,6500,Diesel,145,38.2,2,Audi
+ Golf,2020,21450,Automatic,3000,Diesel,145,62.8,2,volkswagen
+ Yaris,2018,13995,Automatic,9114,Hybrid,135,76.3,1.5,toyota
+ Polo,2020,19980,Semi-Auto,500,Petrol,145,46.3,1,volkswagen
+ 3 Series,2013,10170,Manual,49102,Diesel,125,57.6,2,BMW
+ E Class,2019,24944,Automatic,11997,Diesel,145,67.3,2,merc
+ S-MAX,2017,17500,Semi-Auto,29570,Diesel,125,52.3,2,ford
+ Polo,2015,8195,Manual,32428,Petrol,20,60.1,1,volkswagen
+ Kuga,2019,25799,Semi-Auto,3295,Diesel,145,38.7,2,ford
+ I30,2015,8375,Automatic,12939,Petrol,200,41.5,1.6,hyundi
+ Fiesta,2018,14998,Manual,19772,Petrol,145,62.8,1,ford
+ A6,2015,13990,Manual,25000,Diesel,30,65.7,2,Audi
+ Astra,2016,9130,Manual,26137,,20,,1.6,vauxhall
+ Fiesta,2017,8595,Manual,27183,Petrol,0,65.7,1,ford
+ I10,2018,6795,Manual,32331,Petrol,145,57.7,1.2,hyundi
+ Astra,2016,9699,Manual,51188,Diesel,20,72.4,1.6,vauxhall
+ Corsa,2019,11995,Manual,8500,Petrol,145,44.8,1.4,vauxhall
+ Touareg,2018,35495,Semi-Auto,23546,Diesel,145,34.5,3,volkswagen
+ Avensis,2010,5495,Manual,79031,Petrol,200,42.2,1.8,toyota
+ Mokka,2015,8570,Manual,38144,Diesel,30,62.8,1.7,vauxhall
+ Astra,2019,14490,Manual,145,Diesel,145,58.9,1.6,vauxhall
+ EcoSport,2017,9880,Manual,12773,Petrol,125,52.3,1,ford
+ Astra,2019,10990,Manual,17727,Petrol,150,61.4,1,vauxhall
+ Fiesta,2016,8516,Manual,33350,Petrol,20,62.8,1,ford
+ GLC Class,2018,29991,Semi-Auto,18976,Diesel,150,47.9,3,merc
+ IX20,2016,8399,Manual,19999,Petrol,125,50.4,1.4,hyundi
+ T-Roc,2018,18491,Manual,15597,Petrol,150,53.3,1.5,volkswagen
+ Corsa,2019,10494,Manual,10,Petrol,145,43.5,1.4,vauxhall
+ Touareg,2019,38495,Semi-Auto,4428,Diesel,145,34.5,3,volkswagen
+ T-Cross,2020,22465,Manual,100,Diesel,145,52.3,1.6,volkswagen
+ Golf,2015,12000,Automatic,33168,Diesel,30,62.8,2,volkswagen
+ Yaris,2017,8975,Manual,12428,Petrol,30,58,1.3,toyota
+ Mokka X,2018,11800,Manual,7143,Petrol,145,47.1,1.4,vauxhall
+ Mokka X,2019,12890,Manual,8520,Diesel,145,50.4,1.6,vauxhall
+ Fiesta,2016,8500,Manual,20844,Petrol,0,65.7,1,ford
+ Fabia,2017,8995,Manual,21000,Petrol,145,60.1,1.2,skoda
+ A4,2019,46888,Automatic,3988,Diesel,145,39.2,3,Audi
+ GLE Class,2020,59995,Semi-Auto,3392,Diesel,150,32.5,2.9,merc
+ Insignia,2016,10699,Manual,16133,Diesel,20,72.4,1.6,vauxhall
+ C Class,2017,17499,Automatic,35652,Hybrid,135,134.5,2,merc
+ A1,2016,12750,Manual,10380,Petrol,30,55.4,1.4,Audi
+ Golf,2019,26295,Semi-Auto,3996,Petrol,145,43.5,1.5,volkswagen
+ Fiesta,2018,14490,Manual,12053,Petrol,145,60.1,1,ford
+ Yeti Outdoor,2016,13299,Semi-Auto,24974,Petrol,125,51.4,1.2,skoda
+ Q3,2020,26890,Manual,2574,Petrol,145,40.9,1.5,Audi
+ Astra,2017,10790,Manual,34000,Diesel,145,72.4,1.6,vauxhall
+ 5 Series,2019,26888,Automatic,8070,Diesel,145,65.7,2,BMW
+ Focus,2018,17000,Manual,11587,Diesel,145,67.3,2,ford
+ 5 Series,2015,10499,Automatic,82375,Diesel,20,68.9,2,BMW
+ I30,2015,6950,Manual,36000,Petrol,145,47.1,1.4,hyundi
+ X1,2013,11995,Semi-Auto,64637,Diesel,160,51.4,2,BMW
+ Insignia,2018,12900,Manual,9274,Petrol,145,47.1,1.5,vauxhall
+ Tiguan,2016,12149,Manual,38638,Diesel,125,56.5,2,volkswagen
+ A4,2019,45490,Automatic,5500,Diesel,145,40.9,3,Audi
+ Insignia,2018,16990,Manual,9200,Petrol,145,44.8,1.6,vauxhall
+ Passat,2017,15992,Semi-Auto,25035,Diesel,125,60.1,2,volkswagen
+ Corsa,2015,5745,Manual,82011,Diesel,0,85.6,1.3,vauxhall
+ 3 Series,2019,24775,Manual,3043,Diesel,145,64.2,2,BMW
+ Fiesta,2011,4295,Manual,86451,Petrol,145,48.7,1.4,ford
+ Fiesta,2015,7800,Manual,28065,Petrol,0,65.7,1,ford
+ Focus,2019,17970,Manual,10985,Diesel,145,74.3,1.5,ford
+ Focus,2019,15700,Manual,7989,Petrol,145,60.1,1,ford
+ Astra,2020,15990,Manual,100,Petrol,145,54.3,1.2,vauxhall
+ Fiesta,2017,10995,Semi-Auto,13451,Petrol,150,54.3,1,ford
+ Passat,2019,18490,Automatic,16318,Petrol,150,40.4,1.5,volkswagen
+ Corsa,2018,9500,Manual,2809,Petrol,145,43.5,1.4,vauxhall
+ Verso,2017,12200,Manual,44896,Petrol,200,41.5,1.6,toyota
+ Kona,2019,14495,Manual,14000,Petrol,145,44.1,1,hyundi
+ A6,2019,32326,Automatic,3866,Diesel,145,39.2,3,Audi
+ 5 Series,2015,13279,Automatic,50355,Diesel,30,62.8,2,BMW
+ X1,2019,31200,Semi-Auto,2517,Diesel,145,36.7,2,BMW
+ Fabia,2018,8995,Manual,8059,Petrol,150,57.7,1,skoda
+ 3 Series,2018,17995,Semi-Auto,40456,Diesel,145,64.2,2,BMW
+ C Class,2015,13000,Manual,69930,Diesel,20,68.9,1.6,merc
+ SLK,2013,11300,Automatic,38490,Diesel,145,56.5,2.1,merc
+ Superb,2019,31490,Automatic,2512,Diesel,145,47.1,2,skoda
+ Zafira,2017,10995,Manual,26803,Petrol,205,42.2,1.4,vauxhall
+ A6,2016,13500,Manual,61104,Diesel,30,61.4,2,Audi
+ Kuga,2019,19995,Manual,17522,Diesel,145,47.9,2,ford
+ Focus,2016,9990,Semi-Auto,32618,Diesel,0,74.3,1.5,ford
+ Kuga,2019,20799,Automatic,9333,Diesel,145,47.9,2,ford
+ Q3,2019,27995,Manual,8365,Diesel,145,40.9,2,Audi
+ Kuga,2018,15800,Manual,24427,Diesel,145,54.3,1.5,ford
+ Astra,2016,9498,Manual,7181,Diesel,0,76.3,1.6,vauxhall
+ 1 Series,2019,18990,Manual,6615,Diesel,145,70.6,1.5,BMW
+ Golf,2019,17521,Automatic,36,Diesel,150,70.6,1.6,volkswagen
+ A Class,2019,18999,Semi-Auto,13476,Diesel,145,65.7,1.5,merc
+ Tiguan,2018,19490,Manual,26914,Diesel,145,50.4,2,volkswagen
+ Fiesta,2018,11200,Manual,16960,Petrol,145,56.5,1,ford
+ Mokka X,2016,10998,Manual,18994,Petrol,205,42.2,1.6,vauxhall
+ Fiesta,2013,7750,Manual,25000,Petrol,0,65.7,1,ford
+ Golf,2019,31890,Automatic,3924,Petrol,145,36.2,2,volkswagen
+ Crossland X,2019,11691,Manual,2594,Petrol,145,44.8,1.2,vauxhall
+ A3,2016,14695,Manual,17856,Petrol,20,60.1,1.4,Audi
+ I20,2018,10000,Manual,11629,Petrol,145,55.4,1.2,hyundi
+ Q2,2019,24448,Manual,3371,Petrol,145,43.5,1.5,Audi
+ A1,2020,19290,Manual,2216,Petrol,145,47.9,1,Audi
+ Astra,2019,16995,Automatic,1375,Petrol,145,42.8,1.4,vauxhall
+ 1 Series,2018,20800,Automatic,20819,Petrol,150,39.8,3,BMW
+ Q5,2016,,Automatic,29808,,200,,2,Audi
+ 2 Series,2019,19880,Automatic,8556,Diesel,145,52.3,2,BMW
+ Corsa,2015,7999,Automatic,59600,Petrol,145,47.9,1.4,vauxhall
+ E Class,2014,12450,Automatic,78185,Diesel,125,57.7,2.1,merc
+ Astra,2016,9000,Manual,41022,Petrol,20,64.2,1,vauxhall
+ A4,2017,17998,Manual,21903,Petrol,150,51.4,1.4,Audi
+ Corsa,2017,7533,Manual,18000,Petrol,145,55.4,1.4,vauxhall
+ Ioniq,2018,14600,Automatic,56118,Hybrid,135,78.5,1.6,hyundi
+ Focus,2018,9980,Manual,51198,Diesel,145,74.3,1.5,ford
+ GLC Class,2017,25210,Semi-Auto,39140,Diesel,150,56.5,2.1,merc
+ GLA Class,2016,18500,Automatic,31478,Diesel,125,56.5,2.1,merc
+ Galaxy,2010,5995,Manual,113000,Diesel,200,49.6,2,ford
+ 2 Series,2017,14951,Manual,22887,Petrol,145,55.4,1.5,BMW
+ Passat,2019,21450,Manual,3250,Petrol,145,45.6,1.5,volkswagen
+ A Class,2018,19790,Automatic,13100,Petrol,145,53.3,1.3,merc
+ I30,2020,25999,Manual,6000,Petrol,150,34,2,hyundi
+ Focus,2020,21990,Automatic,1955,Diesel,150,64.2,2,ford
+ A3,2015,11850,Manual,43988,Petrol,20,60.1,1.4,Audi
+ Santa Fe,2019,35456,Semi-Auto,8000,Diesel,145,39.2,2.2,hyundi
+ X2,2020,24490,Semi-Auto,1,Diesel,145,52.3,2,BMW
+ EcoSport,2018,,Manual,9515,,150,,1,ford
+ Fiesta,2017,9499,Manual,17310,Petrol,145,65.7,1,ford
+ T-Roc,2019,30990,Automatic,8106,,145,,2,volkswagen
+ Insignia,2016,11000,Automatic,15000,Diesel,125,57.6,1.6,vauxhall
+ Polo,2019,,Manual,13107,,145,,1,volkswagen
+ Polo,2014,5995,Manual,60125,Petrol,20,60.1,1,volkswagen
+ E Class,2019,25000,Semi-Auto,14521,Diesel,145,72.4,2,merc
+ GLC Class,2019,32480,Semi-Auto,2566,Diesel,145,44.8,2,merc
+ GLE Class,2019,53199,Semi-Auto,2504,Diesel,145,32.8,3,merc
+ Golf SV,2016,13680,Semi-Auto,5397,Petrol,30,54.3,1.4,volkswagen
+ Polo,2019,15690,Automatic,4659,Petrol,145,45.6,1,volkswagen
+ B-MAX,2014,6799,Manual,33000,,20,,1.6,ford
+ C-HR,2019,25695,Automatic,9089,Hybrid,135,74.3,1.8,toyota
+ Golf,2016,19990,Semi-Auto,33833,Petrol,160,44.1,2,volkswagen
+ Focus,2016,14998,Manual,23589,Diesel,20,67.3,2,ford
+ A Class,2019,23199,Semi-Auto,2563,Diesel,145,56.5,2,merc
+ Q7,2015,28000,Automatic,37000,,200,47.9,3,Audi
+ Golf,2018,21990,Semi-Auto,10548,Petrol,150,44.1,2,volkswagen
+ Puma,2019,21000,Manual,300,Petrol,145,50.4,1,ford
+ Focus,2017,15610,Manual,26499,Diesel,20,67.3,2,ford
+ A1,2017,15490,Semi-Auto,14427,Petrol,150,56.5,1.4,Audi
+ Fabia,2019,12250,Manual,5036,Petrol,145,61.4,1,skoda
+ Astra,2017,10998,Manual,9555,,125,50.4,1.4,vauxhall
+ Corsa,2018,7599,Manual,13540,Petrol,145,55.4,1.4,vauxhall
+ Q7,2018,57490,Semi-Auto,11800,Diesel,145,39.2,4,Audi
+ A4,2017,15767,Manual,42171,Petrol,145,50.4,2,Audi
+ Yaris,2016,11475,Automatic,19464,Hybrid,0,86,1.5,toyota
+ Fiesta,2018,11200,Manual,31336,Petrol,145,65.7,1,ford
+ Golf,2019,20980,Semi-Auto,5398,Petrol,145,43.5,1.5,volkswagen
+ A1,2019,21990,Manual,6000,Petrol,145,47.9,1,Audi
+ A6,2017,19888,Manual,21178,Diesel,150,61.4,2,Audi
+ Kona,2019,17990,Semi-Auto,4461,Diesel,145,52.3,1.6,hyundi
+ Focus,2017,11100,Automatic,42500,Diesel,145,67.3,1.5,ford
+ Fiesta,2013,5995,Manual,47530,Petrol,0,65.7,1,ford
+ Polo,2016,8790,Manual,58621,Petrol,20,60.1,1.2,volkswagen
+ Astra,2018,11495,Manual,14000,Petrol,145,51.4,1.4,vauxhall
+ A5,2016,16267,Manual,60431,Diesel,160,53.3,2,Audi
+ Corsa,2019,11529,Automatic,5388,Petrol,145,43.5,1.4,vauxhall
+ Galaxy,2016,16299,Manual,35029,Diesel,125,56.5,2,ford
+ Insignia,2016,9200,Manual,27478,Diesel,30,62.8,2,vauxhall
+ Kuga,2019,17991,Manual,3961,Diesel,150,45.6,1.5,ford
+ A1,2019,22900,Semi-Auto,1548,Petrol,145,40.9,2,Audi
+ A Class,2015,16499,Automatic,40366,Petrol,200,42.8,2,merc
+ Golf,2018,19399,Automatic,18322,Diesel,145,57.7,2,volkswagen
+ Crossland X,2019,22188,Manual,24,Diesel,150,62.8,1.5,vauxhall
+ Superb,2016,8391,Manual,108000,Diesel,20,67.3,1.6,skoda
+ A4,2016,13312,Automatic,73471,Diesel,30,65.7,2,Audi
+ Zafira,2016,10998,Manual,15220,Petrol,200,42.2,1.4,vauxhall
+ Fiesta,2014,7595,Manual,40515,Petrol,0,65.7,1,ford
+ A Class,2017,14981,Semi-Auto,39000,Petrol,150,53.3,1.6,merc
+ Kuga,2017,12999,Manual,44000,Diesel,150,60.1,2,ford
+ Combo Life,2018,15690,Manual,11935,Diesel,145,53.3,1.5,vauxhall
+ Mokka,2015,8741,Manual,26721,Petrol,165,44.8,1.4,vauxhall
+ Kuga,2015,11108,Manual,41943,Diesel,125,60.1,2,ford
+ Yeti Outdoor,2015,10195,Semi-Auto,61200,Diesel,200,44.8,2,skoda
+ SQ5,2017,36950,Automatic,27000,Petrol,150,34,3,Audi
+ GLC Class,2020,42999,Semi-Auto,4999,Diesel,145,40.9,2,merc
+ Touareg,2018,38490,Automatic,8455,Diesel,145,34,3,volkswagen
+ I30,2017,9517,Manual,38982,Diesel,145,74.3,1.6,hyundi
+ Auris,2017,13595,Automatic,34879,Hybrid,140,78.5,1.8,toyota
+ Kuga,2017,13999,Manual,23915,Diesel,150,64.2,1.5,ford
+ Aygo,2015,8500,Automatic,16202,Petrol,0,67,1,toyota
+ Fiesta,2019,11698,Manual,3484,Petrol,150,48.7,1.1,ford
+ 2 Series,2016,10400,Manual,72890,Petrol,125,53.3,1.5,BMW
+ Mokka X,2018,11500,Manual,18806,Petrol,145,39.2,1.4,vauxhall
+ Fiesta,2016,10400,Manual,20000,Petrol,20,62.8,1,ford
+ Fiesta,2018,11699,Manual,16175,Petrol,145,65.7,1,ford
+ Polo,2017,7998,Manual,42727,Petrol,20,58.9,1,volkswagen
+ Tiguan,2018,21950,Automatic,15261,Petrol,145,40.4,1.4,volkswagen
+ C Class,2019,28480,Semi-Auto,11253,Diesel,145,56.5,2,merc
+ Corsa,2018,9265,Manual,16313,Petrol,145,43.5,1.4,vauxhall
+ T-Roc,2019,23000,Manual,2500,Diesel,145,50.4,2,volkswagen
+ X1,2016,19998,Semi-Auto,11927,Diesel,150,55.4,2,BMW
+ Mokka X,2016,12498,Semi-Auto,10248,Petrol,160,43.5,1.4,vauxhall
+ GLC Class,2017,24498,Semi-Auto,36058,Diesel,125,56.5,2.1,merc
+ A1,2015,10950,Manual,48299,Petrol,30,57.6,1.4,Audi
+ Corsa,2019,11529,Manual,9085,Petrol,145,43.5,1.4,vauxhall
+ Mokka X,2019,12795,Manual,13723,Petrol,145,39.2,1.4,vauxhall
+ Kodiaq,2018,21495,Automatic,21495,Petrol,145,44.8,1.4,skoda
+ Grandland X,2019,18991,Manual,11015,Petrol,145,44.1,1.2,vauxhall
+ A Class,2013,8699,Manual,70243,Diesel,20,72.4,1.5,merc
+ E Class,2016,15995,Semi-Auto,60931,Diesel,125,58.9,2.1,merc
+ B Class,2019,21980,Semi-Auto,9318,Petrol,145,45.6,1.3,merc
+ A Class,2016,17749,Semi-Auto,42958,Diesel,20,67.3,2.1,merc
+ Tucson,2015,11176,Manual,43169,Diesel,30,61.7,1.7,hyundi
+ Aygo,2016,8695,Semi-Auto,8510,Petrol,0,67,1,toyota
+ 7 Series,2012,12500,Automatic,66294,Diesel,160,50.4,3,BMW
+ Fiesta,2020,16000,Automatic,500,Petrol,145,48.7,1,ford
+ Mondeo,2007,1495,Manual,127000,Petrol,260,37.2,1.8,ford
+ Polo,2018,11989,Manual,16991,Petrol,145,64.2,1,volkswagen
+ A5,2019,36990,Automatic,2500,Petrol,145,38.7,2,Audi
+ GLA Class,2019,24003,Semi-Auto,6584,Petrol,145,36.2,1.6,merc
+ TT,2015,14900,Manual,34889,Diesel,30,62.8,2,Audi
+ Octavia,2016,9995,Manual,31111,Petrol,30,55.4,1.4,skoda
+ Golf,2016,15157,Automatic,21474,Diesel,20,57.6,2,volkswagen
+ Focus,2017,11280,Manual,18138,Petrol,150,60.1,1,ford
+ Q3,2016,18620,Semi-Auto,30647,Diesel,145,51.4,2,Audi
+ C-HR,2017,16498,Manual,12850,Petrol,150,47.1,1.2,toyota
+ A3,2016,14000,Manual,18725,Petrol,20,61.4,1.4,Audi
+ Polo,2017,10995,Manual,8129,Petrol,20,60.1,1,volkswagen
+ Focus,2013,9490,Manual,67000,Petrol,235,39.2,2,ford
+ Tucson,2017,13498,Manual,25424,Diesel,30,61.7,1.7,hyundi
+ GLC Class,2016,28798,Semi-Auto,18773,Diesel,145,56.5,2.1,merc
+ Mokka X,2018,12800,Automatic,33155,Petrol,145,37.2,1.4,vauxhall
+ E Class,2019,41519,Semi-Auto,1000,Diesel,145,42.8,3,merc
+ A1,2015,9671,Manual,35924,Petrol,0,67.3,1,Audi
+ B Class,2016,11450,Manual,23563,Diesel,20,68.9,1.5,merc
+ A Class,2017,15500,Automatic,32568,Diesel,20,68.9,2.1,merc
+ Kuga,2019,21290,Manual,4502,Diesel,145,39.2,2,ford
+ Corsa,2017,7980,Manual,20499,Petrol,145,54.3,1.4,vauxhall
+ X3,2019,31986,Automatic,8998,Diesel,145,54.3,2,BMW
+ C-HR,2019,23995,Automatic,2276,Hybrid,140,74.3,1.8,toyota
+ CLS Class,2013,11995,Automatic,59500,Diesel,145,54.3,2.1,merc
+ Aygo,2013,3999,Manual,32001,Petrol,0,65.7,1,toyota
+ 5 Series,2019,29998,Semi-Auto,5000,Diesel,145,62.8,2,BMW
+ 2 Series,2017,16498,Semi-Auto,26335,Diesel,145,64.2,2,BMW
+ Focus,2018,12990,Manual,13470,Diesel,150,74.3,1.5,ford
+ A4,2016,11795,Manual,79500,Diesel,20,70.6,2,Audi
+ Corsa,2015,5840,Manual,41715,Petrol,125,53.3,1.2,vauxhall
+ Focus,2018,12399,Manual,18227,Diesel,145,80.7,1.5,ford
+ i8,2017,59950,Automatic,9992,Hybrid,135,134.5,1.5,BMW
+ Citigo,2017,5995,Manual,29103,Petrol,150,64.2,1,skoda
+ 5 Series,2017,33122,Semi-Auto,11817,Diesel,145,51.4,3,BMW
+ IX20,2018,10690,Manual,15853,Petrol,150,50.4,1.4,hyundi
+ C-MAX,2017,10499,Manual,16176,Petrol,30,55.4,1,ford
+ E Class,2019,52732,Semi-Auto,7218,Petrol,145,32.1,3,merc
+ 3 Series,2019,26950,Semi-Auto,4320,Petrol,145,42.2,2,BMW
+ Fiesta,2018,12000,Manual,9653,Petrol,145,65.7,1,ford
+ T-Roc,2020,24500,Manual,1000,Petrol,145,44.1,1.5,volkswagen
+ Golf,2019,12298,Manual,12607,Petrol,150,49.6,1,volkswagen
+ Polo,2019,15390,Semi-Auto,4000,Petrol,150,45.6,1,volkswagen
+ TT,2020,29000,Semi-Auto,1000,Petrol,145,40.9,2,Audi
+ Corsa,2018,8995,Manual,23117,Petrol,145,55.4,1.4,vauxhall
+ Polo,2017,9684,Manual,20954,Petrol,20,60.1,1.2,volkswagen
+ C-HR,2019,23483,Automatic,6000,Hybrid,135,74.3,1.8,toyota
+ Focus,2010,2499,Manual,87023,Diesel,30,62.8,1.6,ford
+ C Class,2016,36981,Semi-Auto,20500,Petrol,305,34.5,4,merc
+ Golf,2019,19819,Automatic,3332,Petrol,145,45.6,1.5,volkswagen
+ Grandland X,2019,16300,Manual,15357,Petrol,150,44.1,1.2,vauxhall
+ Golf,2016,11992,Semi-Auto,36312,Diesel,20,58.9,1.6,volkswagen
+ Corsa,2019,9994,Manual,1042,Petrol,145,43.5,1.4,vauxhall
+ Focus,2017,8999,Manual,33460,Petrol,20,60.1,1,ford
+ IX35,2013,7500,Manual,73593,Diesel,145,53.3,1.7,hyundi
+ Golf,2020,23450,Manual,1000,Petrol,145,49.6,1.5,volkswagen
+ Yaris,2013,5698,Manual,51358,,125,,1.3,toyota
+ 3 Series,2015,15998,Semi-Auto,47812,Diesel,160,51.4,3,BMW
+ Mokka,2015,8498,Manual,30503,Petrol,160,44.8,1.4,vauxhall
+ A3,2019,15470,Manual,15649,Petrol,145,42.2,1.5,Audi
+ E Class,2017,,Semi-Auto,11776,,145,,3,merc
+ GLC Class,2019,31995,Automatic,5999,Diesel,145,44.8,2,merc
+ Yaris,2019,10512,Manual,18325,Petrol,145,47.9,1.5,toyota
+ 1 Series,2018,11700,Manual,30273,Diesel,145,53.3,1.5,BMW
+ EcoSport,2018,13495,Semi-Auto,32000,Petrol,150,48.7,1,ford
+ Fiesta,2014,6500,Manual,34522,Petrol,30,54.3,1.2,ford
+ Fiesta,2018,12000,Manual,56,Petrol,145,58.9,1,ford
+ Astra,2016,9131,Manual,38078,Petrol,20,62.8,1,vauxhall
+ I30,2018,11000,Manual,13406,Petrol,145,56.5,1,hyundi
+ Aygo,2017,7950,Manual,13085,Petrol,150,68.9,1,toyota
+ Golf,2019,,Manual,15302,,145,,1,volkswagen
+ 3 Series,2017,18000,Automatic,41387,Diesel,160,51.4,3,BMW
+ E Class,2019,37980,Semi-Auto,1040,Diesel,145,48.7,3,merc
+ C Class,2020,31480,Semi-Auto,9,Diesel,145,64.2,2,merc
+ Eos,2012,5990,Manual,74000,Diesel,125,58.9,2,volkswagen
+ 3 Series,2019,39590,Automatic,8426,Petrol,145,34.9,3,BMW
+ Fiesta,2018,10298,Manual,18840,Petrol,145,65.7,1,ford
+ EcoSport,2018,13491,Manual,14403,Petrol,145,54.3,1,ford
+ Meriva,2015,6191,Manual,47447,Petrol,145,47.1,1.4,vauxhall
+ A3,2019,22990,Semi-Auto,15202,Petrol,145,41.5,1.5,Audi
+ Fiesta,2018,13950,Manual,1700,,145,,1,ford
+ Kona,2018,14298,Manual,8795,Petrol,145,44.1,1,hyundi
+ Ioniq,2018,16495,Semi-Auto,17712,Hybrid,135,78.5,1.6,hyundi
+ B-MAX,2017,10228,Manual,22677,Petrol,145,57.7,1,ford
+ Grandland X,2019,16000,Manual,12277,Petrol,145,44.1,1.2,vauxhall
+ 3 Series,2017,19547,Automatic,29184,Diesel,145,51.4,3,BMW
+ Focus,2018,12250,Manual,16706,Petrol,145,60.1,1,ford
+ Fiesta,2018,11998,Manual,10320,Petrol,145,56.5,1,ford
+ Fiesta,2018,11999,Manual,16379,Petrol,150,65.7,1,ford
+ Up,2020,10950,Manual,100,Petrol,145,54.3,1,volkswagen
+ Insignia,2018,13298,Manual,20321,Diesel,145,65.7,1.6,vauxhall
+ 4 Series,2016,21985,Automatic,33074,Diesel,160,51.4,3,BMW
+ Grand C-MAX,2016,10800,Manual,33212,Diesel,30,64.2,1.5,ford
+ E Class,2020,35480,Semi-Auto,1989,Diesel,145,42.8,2,merc
+ Corsa,2017,7289,Manual,22500,Petrol,150,54.3,1.4,vauxhall
+ Tiguan,2018,19995,Manual,3283,Petrol,150,46.3,1.4,volkswagen
+ Aygo,2018,10241,Semi-Auto,5113,Petrol,150,67.3,1,toyota
+ SLK,2015,14400,Automatic,27630,Diesel,30,70.6,2.1,merc
+ SLK,2015,13400,Manual,47003,Petrol,205,41.5,1.8,merc
+ Mokka X,2017,10499,Manual,21550,Petrol,200,42.2,1.6,vauxhall
+ Polo,2019,14991,Manual,2000,Diesel,145,76.4,1.6,volkswagen
+ A4,2016,23900,Semi-Auto,57200,Diesel,165,52.3,3,Audi
+ E Class,2019,24490,Semi-Auto,8499,Diesel,150,67.3,2,merc
+ Q3,2017,20700,Manual,25201,Diesel,145,54.3,2,Audi
+ I10,2016,6490,Manual,32000,Petrol,30,57.6,1.2,hyundi
+ Aygo,2017,7290,Semi-Auto,52496,Petrol,0,67,1,toyota
+ Corolla,2019,20250,Automatic,7445,Hybrid,140,85.6,1.8,toyota
+ 2 Series,2019,21945,Semi-Auto,8377,Petrol,145,47.9,2,BMW
+ Rapid,2015,6280,Manual,71558,Diesel,0,67.3,1.6,skoda
+ Insignia,2017,12803,Manual,45265,Diesel,145,53.3,2,vauxhall
+ A1,2016,10999,Manual,30000,Diesel,0,76.3,1.6,Audi
+ C Class,2015,15890,Semi-Auto,54000,Diesel,30,64.2,2.1,merc
+ GLC Class,2016,19750,Automatic,48979,Diesel,125,56.5,2.1,merc
+ A Class,2016,16450,Manual,25623,Petrol,200,41.5,2,merc
+ Corsa,2018,9681,Manual,11983,Petrol,145,55.4,1.4,vauxhall
+ V Class,2019,47490,Automatic,20,Diesel,145,36.7,2,merc
+ Fiesta,2019,12790,Manual,14181,Petrol,145,56.5,1,ford
+ A4,2017,16998,Manual,6896,Petrol,145,52.3,1.4,Audi
+ Q3,2017,22249,Automatic,21236,Petrol,200,42.2,2,Audi
+ Kuga,2015,13250,Manual,32748,Diesel,145,54.3,2,ford
+ A Class,2020,25799,Automatic,2500,Diesel,145,56.5,2,merc
+ C Class,2019,21340,Automatic,12836,Petrol,145,44.1,1.5,merc
+ Kuga,2015,12490,Automatic,29000,Diesel,145,52.3,2,ford
+ C-HR,2017,16060,Manual,17841,Petrol,145,47.1,1.2,toyota
+ EcoSport,2017,8698,Manual,36124,Petrol,160,44.8,1.5,ford
+ Fiesta,2015,6900,Manual,37000,Petrol,0,65.7,1,ford
+ Corsa,2020,16998,Manual,10,Petrol,145,52.3,1.2,vauxhall
+ CL Class,2015,16975,Semi-Auto,38000,Diesel,20,67.3,2.1,merc
+ Auris,2018,15450,Automatic,8690,Hybrid,135,68.8,1.8,toyota
+ GLA Class,2019,21497,Automatic,4999,Petrol,145,44.8,1.6,merc
+ A1,2016,11800,Manual,16133,Petrol,0,67.3,1,Audi
+ C Class,2019,19799,Semi-Auto,14222,Petrol,145,46.3,1.5,merc
+ Amarok,2018,22990,Automatic,20811,Diesel,260,36.2,3,volkswagen
+ A Class,2016,14190,Manual,35500,Diesel,20,68.9,1.5,merc
+ Fiesta,2013,5998,Manual,51348,Petrol,0,65.7,1,ford
+ Superb,2017,12350,Manual,54000,Diesel,20,68.9,2,skoda
+ Golf,2019,19490,Automatic,8382,Diesel,145,52.3,2,volkswagen
+ 1 Series,2017,10700,Manual,37487,Diesel,0,78.5,1.5,BMW
+ Corsa,2017,11800,Manual,25000,Petrol,145,37.7,1.6,vauxhall
+ Astra,2019,11998,Manual,15946,Petrol,145,51.4,1.4,vauxhall
+ Corsa,2015,6690,Manual,29121,Petrol,125,54.3,1.4,vauxhall
+ Mokka,2015,7950,Manual,47000,Diesel,30,65.7,1.6,vauxhall
+ Octavia,2015,7795,Manual,81540,Diesel,20,68.9,2,skoda
+ A3,2019,,Semi-Auto,3653,,145,,2,Audi
+ C Class,2019,26500,Automatic,6995,Diesel,145,57.7,2,merc
+ Corsa,2017,6600,Manual,46210,Petrol,30,55.4,1.4,vauxhall
+ Grandland X,2019,17700,Manual,10690,Petrol,145,44.1,1.2,vauxhall
+ C Class,2019,67000,Automatic,2800,Petrol,145,28,4,merc
+ Viva,2015,5499,Manual,37962,Petrol,20,62.8,1,vauxhall
+ Karoq,2018,16985,Manual,19169,Petrol,145,40.4,1,skoda
+ A Class,2019,114199,Semi-Auto,891,Petrol,145,22.6,4,merc
+ Astra,2020,15500,Manual,22,Petrol,145,54.3,1.2,vauxhall
+ 5 Series,2017,23898,Semi-Auto,46954,Diesel,145,60.1,3,BMW
+ Fiesta,2017,9490,Manual,12620,Petrol,0,65.7,1,ford
+ A Class,2016,10799,Manual,81475,Diesel,20,72.4,1.5,merc
+ Corsa,2018,8495,Manual,24000,Petrol,145,55.4,1.4,vauxhall
+ Mondeo,2017,11800,Manual,47000,Diesel,0,78.5,1.5,ford
+ E Class,2019,31990,Automatic,7905,Diesel,145,42.8,2,merc
+ 1 Series,2019,25898,Manual,3000,Petrol,145,41.5,1.5,BMW
+ 3 Series,2015,18995,Automatic,31500,Diesel,140,56.5,3,BMW
+ Yaris,2017,9990,Manual,15096,Petrol,30,55,1.3,toyota
+ Golf,2018,17896,Manual,10050,Petrol,145,45.6,1.5,volkswagen
+ Golf,2019,22985,Manual,4888,Petrol,145,45.6,1.5,volkswagen
+ E Class,2019,61990,Automatic,75,Petrol,145,30.1,4,merc
+ T-Roc,2020,25500,Manual,3000,Petrol,145,44.1,1.5,volkswagen
+ Grand C-MAX,2017,12500,Manual,15077,Diesel,30,64.2,1.5,ford
+ Passat,2020,30990,Semi-Auto,4765,Diesel,145,48.7,2,volkswagen
+ Fiesta,2017,9471,Manual,11212,Petrol,145,54.3,1.2,ford
+ 4 Series,2015,19200,Automatic,41670,Diesel,200,47.9,3,BMW
+ A3,2019,20000,Automatic,5000,Diesel,145,54.3,1.6,Audi
+ Polo,2017,9700,Manual,12503,Petrol,150,58.9,1,volkswagen
+ Focus,2017,13000,Automatic,23670,Petrol,145,46.3,1.5,ford
+ Beetle,2014,7930,Manual,33391,Diesel,30,65.7,1.6,volkswagen
+ Polo,2019,11990,Manual,12877,Petrol,145,48.7,1,volkswagen
+ GLS Class,2018,46532,Automatic,5987,Diesel,145,37.2,3,merc
+ Golf,2017,13495,Manual,28146,Diesel,150,61.4,1.6,volkswagen
+ Yaris,2015,6998,Manual,34864,Petrol,0,66,1,toyota
+ C Class,2015,16810,Automatic,44929,Diesel,30,64.2,2.1,merc
+ Astra,2020,16350,Manual,10,Petrol,145,54.3,1.2,vauxhall
+ Mokka X,2019,12998,Manual,11089,Petrol,145,39.2,1.4,vauxhall
+ Superb,2016,19995,Automatic,8047,Diesel,145,56.5,2,skoda
+ A3,2017,15500,Manual,17001,Petrol,145,55.4,1.5,Audi
+ Focus,2017,16495,Manual,33770,Petrol,145,41.5,2,ford
+ Mokka,2016,10998,Automatic,15498,Petrol,165,43.5,1.4,vauxhall
+ 5 Series,2016,13254,Automatic,68816,Diesel,30,62.8,2,BMW
+ Touareg,2019,44499,Semi-Auto,7000,Diesel,145,34,3,volkswagen
+ Golf,2020,21965,Manual,100,Petrol,150,49.6,1.5,volkswagen
+ A Class,2019,17980,Semi-Auto,17842,Diesel,145,65.7,1.5,merc
+ Golf,2016,12295,Manual,24486,Petrol,30,53.3,1.4,volkswagen
+ C Class,2019,35891,Automatic,4167,Diesel,145,61.4,2,merc
+ GLC Class,2016,26000,Semi-Auto,31726,Diesel,125,56.5,2.1,merc
+ E Class,2017,27298,Semi-Auto,18403,Petrol,145,40.4,2,merc
+ Focus,2018,19995,Manual,10923,Diesel,145,67.3,2,ford
+ Grandland X,2018,14995,Manual,48791,Diesel,145,56.5,1.5,vauxhall
+ A4,2019,30500,Automatic,4250,Diesel,145,44.8,2,Audi
+ Kuga,2015,10499,Manual,45594,Diesel,125,60.1,2,ford
+ Fiesta,2009,3895,Manual,61171,Petrol,145,49.6,1.2,ford
+ Golf,2016,15490,Manual,16838,Petrol,20,60.1,1.4,volkswagen
+ Focus,2018,13995,Manual,12449,Petrol,145,57.7,1,ford
+ CL Class,2016,16299,Semi-Auto,52819,Diesel,20,67.3,2.1,merc
+ Golf,2018,16399,Manual,12826,Petrol,145,58.9,1.5,volkswagen
+ 1 Series,2016,14652,Manual,9461,Diesel,20,70.6,1.5,BMW
+ A4,2018,,Manual,20356,,150,,1.4,Audi
+ GLA Class,2018,23480,Semi-Auto,10312,Diesel,145,56.5,2.1,merc
+ Corsa,2013,5590,Manual,18273,,125,,1.4,vauxhall
+ Q5,2019,51990,Semi-Auto,2901,Diesel,145,34.5,3,Audi
+ Fiesta,2015,8290,Manual,29174,Petrol,0,65.7,1,ford
+ Fiesta,2016,9100,Manual,13425,Petrol,0,65.7,1,ford
+ I10,2018,10399,Manual,3796,Petrol,150,57.6,1.2,hyundi
+ Astra,2016,9995,Manual,28500,Petrol,125,50.4,1.4,vauxhall
+ Golf,2016,17698,Semi-Auto,9244,Diesel,30,62.8,2,volkswagen
+ Polo,2017,11490,Manual,14629,Petrol,150,60.1,1.2,volkswagen
+ Q2,2019,23685,Automatic,37,Diesel,145,47.9,1.6,Audi
+ Viva,2018,5995,Manual,28609,Petrol,150,61.4,1,vauxhall
+ 3 Series,2015,16410,Automatic,35219,Diesel,145,56.5,3,BMW
+ TT,2019,32990,Semi-Auto,1983,Petrol,150,34,2,Audi
+ GLE Class,2016,28799,Semi-Auto,36500,Diesel,260,42.8,3,merc
+ C Class,2019,34980,Semi-Auto,16169,Petrol,150,30.4,3,merc
+ Focus,2009,2995,Manual,93400,Petrol,200,42.2,1.6,ford
+ A3,2008,2995,Manual,136000,Diesel,205,48.7,2,Audi
+ 5 Series,2019,25980,Semi-Auto,5389,Petrol,150,36.2,2,BMW
+ C Class,2019,24980,Semi-Auto,5453,,145,,1.5,merc
+ Viva,2016,5995,Manual,31708,Petrol,20,62.8,1,vauxhall
+ Fiesta,2018,11195,Manual,18000,Petrol,145,65.7,1,ford
+ Fiesta,2013,6850,Manual,44000,Petrol,30,54.3,1.2,ford
+ Golf,2019,28800,Semi-Auto,100,Petrol,150,32.8,2,volkswagen
+ S-MAX,2009,5685,Manual,59496,Diesel,260,42.8,2.2,ford
+ Fiesta,2017,11450,Manual,5551,Petrol,20,62.8,1,ford
+ Focus,2015,7499,Manual,45363,Diesel,0,74.3,1.5,ford
+ Crossland X,2019,15500,Manual,2000,Petrol,145,47.1,1.2,vauxhall
+ 4 Series,2015,14999,Automatic,19887,Diesel,30,64.2,2,BMW
+ Mokka X,2019,15771,Semi-Auto,4201,Petrol,145,37.2,1.4,vauxhall
+ Supra,2019,49990,Semi-Auto,3000,Petrol,145,34.5,3,toyota
+ Grand C-MAX,2016,9268,Manual,42619,Diesel,30,64.2,1.5,ford
+ X5,2019,51990,Semi-Auto,5850,Diesel,150,37.7,3,BMW
+ Focus,2018,15295,Manual,14034,Petrol,145,58.9,1,ford
+ X1,2016,17397,Manual,16243,Diesel,125,58.9,2,BMW
+ Mokka X,2017,10802,Manual,51943,Diesel,125,60.1,1.6,vauxhall
+ E Class,2017,21142,Automatic,26928,Diesel,145,67.3,2,merc
+ 5 Series,2019,28110,Semi-Auto,6659,Diesel,145,65.7,2,BMW
+ Golf,2018,23290,Manual,755,Petrol,145,43.5,2,volkswagen
+ Octavia,2019,24000,Semi-Auto,5988,Diesel,145,55.4,2,skoda
+ Superb,2015,8391,Manual,130000,Diesel,20,67.3,2,skoda
+ Fiesta,2018,13491,Manual,7552,Petrol,145,65.7,1,ford
+ GTC,2015,6450,Manual,47043,Diesel,125,60.1,2,vauxhall
+ X1,2019,25285,Automatic,11884,Diesel,145,60.1,2,BMW
+ Fiesta,2014,6495,Manual,44000,Petrol,30,54.3,1.2,ford
+ Kuga,2017,15200,Manual,22435,Diesel,150,54.3,2,ford
+ Focus,2014,6800,Manual,53500,Petrol,30,56.5,1,ford
+ Fiesta,2018,9990,Manual,15018,Petrol,150,64.2,1.1,ford
+ Astra,2019,14599,Manual,520,Diesel,145,58.9,1.6,vauxhall
+ 1 Series,2016,13300,Automatic,32404,Petrol,30,55.5,1.5,BMW
+ A Class,2018,18927,Semi-Auto,15013,,145,,1.5,merc
+ Kuga,2017,16507,Manual,21184,Diesel,145,54.3,2,ford
+ 3 Series,2016,12300,Manual,32759,Diesel,20,72.4,2,BMW
+ 3 Series,2017,17700,Automatic,22457,Diesel,160,49.6,3,BMW
+ Focus,2017,12999,Semi-Auto,16943,Petrol,125,51.4,1,ford
+ Fiesta,2017,9600,Manual,12992,Petrol,0,65.7,1,ford
+ Aygo,2019,9999,Manual,20,Petrol,145,57.7,1,toyota
+ Citigo,2017,6995,Manual,12300,Petrol,20,64.2,1,skoda
+ Fiesta,2015,7999,Manual,45837,Petrol,125,54.3,1.2,ford
+ Golf,2017,11700,Manual,34630,Diesel,145,67.3,1.6,volkswagen
+ Q2,2017,15529,Manual,50841,Diesel,145,64.2,1.6,Audi
+ X1,2017,18499,Automatic,32236,Diesel,145,65.7,2,BMW
+ C Class,2017,17500,Automatic,30297,Diesel,30,64.2,2.1,merc
+ Zafira,2017,14000,Manual,18469,Diesel,145,54.3,2,vauxhall
+ Fiesta,2018,16895,Manual,16895,Petrol,145,40.3,1.5,ford
+ Golf,2017,19850,Automatic,16650,Hybrid,135,166.2,1.4,volkswagen
+ A Class,2014,11599,Manual,52598,Diesel,20,70.6,1.5,merc
+ Touareg,2016,22495,Automatic,33891,Diesel,235,42.8,3,volkswagen
+ Corsa,2017,7649,Manual,25734,Petrol,145,55.4,1.4,vauxhall
+ GLC Class,2018,29932,Semi-Auto,14196,Diesel,145,56.5,2.1,merc
+ Yeti Outdoor,2016,12495,Manual,14000,Petrol,125,51.4,1.2,skoda
+ Q2,2019,22500,Automatic,4500,Diesel,145,47.9,1.6,Audi
+ Astra,2019,13995,Manual,9040,Diesel,145,62.8,1.6,vauxhall
+ 3 Series,2015,16698,Semi-Auto,38399,Diesel,145,56.5,3,BMW
+ California,2018,54999,Automatic,7865,Diesel,260,44.1,2,volkswagen
+ I10,2017,8789,Manual,29290,Petrol,145,57.7,1.2,hyundi
+ 6 Series,2016,26580,Semi-Auto,15668,Petrol,260,35.8,3,BMW
+ Insignia,2018,12250,Manual,34098,Petrol,145,47.1,1.5,vauxhall
+ Focus,2017,11298,Manual,24386,,0,,1.5,ford
+ Karoq,2019,18990,Manual,9,Petrol,145,43.5,1,skoda
+ A4,2019,29990,Automatic,6000,Diesel,145,49.6,2,Audi
+ A1,2016,12505,Manual,19038,Petrol,0,67.3,1,Audi
+ Golf,2019,21790,Automatic,6915,Petrol,145,46.3,1.5,volkswagen
+ Kuga,2019,16995,Manual,13255,Diesel,145,47.9,2,ford
+ Corsa,2019,10490,Manual,100,Petrol,145,43.5,1.4,vauxhall
+ 2 Series,2019,19990,Manual,6361,Diesel,145,51.4,2,BMW
+ Mokka,2015,9298,Automatic,25321,Petrol,200,40.4,1.4,vauxhall
+ Arteon,2017,21469,Automatic,32387,Petrol,150,38.7,2,volkswagen
+ Polo,2018,12990,Manual,14597,Petrol,145,62.8,1,volkswagen
+ Superb,2017,12375,Semi-Auto,75230,Diesel,125,61.4,2,skoda
+ Kuga,2019,18999,Manual,9911,Diesel,145,47.9,2,ford
+ Corsa,2016,7298,Manual,16007,Petrol,30,55.4,1.4,vauxhall
+ Golf,2017,16699,Manual,24000,Diesel,145,60.1,2,volkswagen
+ Citigo,2018,6995,Manual,19752,Petrol,150,64.2,1,skoda
+ Astra,2017,10191,Manual,30318,Diesel,145,74.3,1.6,vauxhall
+ Golf,2016,15990,Semi-Auto,51923,Petrol,160,44.1,2,volkswagen
+ Fiesta,2018,10950,Manual,17000,,150,,1,ford
+ Fiesta,2015,6800,Manual,40160,Petrol,125,54.3,1.2,ford
+ S-MAX,2017,15999,Manual,36384,Petrol,160,43.5,1.5,ford
+ Yaris,2017,10200,Manual,12859,Petrol,145,58.9,1.5,toyota
+ Tiguan,2019,23450,Manual,5651,Diesel,145,42.8,2,volkswagen
+ Crossland X,2019,10498,Manual,15727,Petrol,150,47.1,1.2,vauxhall
+ Q3,2015,15998,Manual,43734,Diesel,145,52.3,2,Audi
+ Focus,2018,18999,Manual,20298,Diesel,150,67.3,2,ford
+ Fabia,2019,9795,Manual,10594,Petrol,145,57.7,1,skoda
+ Polo,2017,9900,Manual,33000,Petrol,150,60.1,1.2,volkswagen
+ SLK,2014,13650,Semi-Auto,34170,,200,,2,merc
+ Mondeo,2016,9999,Manual,29729,Diesel,0,78.5,1.5,ford
+ KA,2019,10499,Manual,308,Petrol,145,47.9,1.2,ford
+ KA,2016,5990,Manual,22543,Petrol,30,57.7,1.2,ford
+ C Class,2017,21491,Automatic,21980,Diesel,145,58.9,2.1,merc
+ Santa Fe,2016,19360,Manual,25976,Diesel,200,47.1,2.2,hyundi
+ Focus,2019,14799,Manual,8560,Petrol,145,60.1,1,ford
+ 2 Series,2020,23950,Semi-Auto,11,Petrol,145,50.4,1.5,BMW
+ Polo,2019,12191,Manual,19807,Petrol,150,48.7,1,volkswagen
+ Focus,2019,16937,Manual,18651,Diesel,145,74.3,1.5,ford
+ X1,2016,13099,Manual,56046,Diesel,20,68.9,2,BMW
+ Tiguan,2017,23502,Manual,20903,Diesel,145,50.4,2,volkswagen
+ Tucson,2017,15110,Semi-Auto,6173,Diesel,125,57.6,1.7,hyundi
+ E Class,2019,34890,Semi-Auto,13883,Diesel,145,48.7,3,merc
+ Tucson,2019,15498,Manual,15196,Petrol,145,34.9,1.6,hyundi
+ Focus,2019,17999,Automatic,14989,Diesel,145,67.3,1.5,ford
+ Touran,2016,19599,Semi-Auto,7365,Petrol,125,51.4,1.4,volkswagen
+ Crossland X,2019,12990,Manual,19029,Petrol,150,47.1,1.2,vauxhall
+ Tucson,2020,22495,Manual,2000,Diesel,145,48.7,1.6,hyundi
+ 3 Series,2018,18000,Automatic,24240,Diesel,150,64.2,0,BMW
+ Aygo,2017,7850,Manual,32750,Petrol,145,68.9,1,toyota
+ A3,2019,17995,Manual,7062,Diesel,145,49.6,1.6,Audi
+ Superb,2019,19995,Manual,28,Diesel,145,65.7,2,skoda
+ Focus,2016,7798,Manual,63664,Diesel,0,74.3,1.5,ford
+ Yaris,2019,11490,Manual,3600,Petrol,145,47.9,1.5,toyota
+ Prius,2014,11750,Automatic,47666,Hybrid,0,70.6,1.8,toyota
+ E Class,2019,35699,Semi-Auto,9957,Diesel,145,42.8,2,merc
+ Up,2019,9895,Manual,3074,Petrol,145,54.3,1,volkswagen
+ Aygo,2020,10980,Semi-Auto,4855,Petrol,145,56.5,1,toyota
+ Q3,2016,17500,Automatic,45211,Diesel,145,51.4,2,Audi
+ Crossland X,2019,11495,Manual,21774,Petrol,150,44.8,1.2,vauxhall
+ Corsa,2015,5490,Manual,46000,Petrol,30,55.4,1.4,vauxhall
+ 2 Series,2018,18999,Automatic,3924,Petrol,145,50.4,1.5,BMW
