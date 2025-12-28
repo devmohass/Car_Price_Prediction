@@ -50,11 +50,11 @@ export default function App() {
   const pages = [
     {
       title: "Data one",
-      fields: ["tax","mpg","engineSize", "car_age","mileage"],
+      fields: ["tax", "mpg", "engineSize", "car_age", "mileage"],
     },
     {
       title: "Data two",
-      fields: ["manufacturer", "model","fuelType", "transmission" ],
+      fields: ["manufacturer", "model", "fuelType", "transmission"],
     },
     {
       title: "Prediction Result",
@@ -80,17 +80,14 @@ export default function App() {
         {key.replace("_", " ")}
       </label>
       <input
-        type={
-          key === "manufacturer" ||
-          key === "model" ||
-          key === "fuelType" ||
-          key === "transmission"
-            ? "text"
-            : "number"
-        }
         name={key}
         value={formData[key]}
         onChange={handleChange}
+        type={
+          ["manufacturer", "model", "fuelType", "transmission"].includes(key)
+            ? "text"
+            : "number"
+        }
         required
         className="w-full border rounded-xl px-4 py-2 focus:ring-2 focus:ring-purple-400 focus:outline-none"
       />
